@@ -36,8 +36,7 @@ export const Header = () => {
               <span className="hidden sm:inline">{phone}</span>
             </a>
             <a 
-              href={`https://wa.me/${whatsapp.replace(/[\s+]/g, '')}`} 
-              target="_blank" 
+              href={`https://wa.me/${whatsapp.replace(/[\s+]/g, '')}`}
               rel="noopener noreferrer"
               className="flex items-center gap-2 hover:text-primary transition-colors"
             >
