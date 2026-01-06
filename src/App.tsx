@@ -20,6 +20,9 @@ const StudioPage = lazy(() => import("./studio/Studio"));
 
 const queryClient = new QueryClient();
 
+// Get basename for GitHub Pages subdirectory deployment
+const basename = import.meta.env.BASE_URL;
+
 const ConditionalWhatsApp = () => {
   const location = useLocation();
   if (location.pathname.startsWith("/studio")) return null;
@@ -31,7 +34,7 @@ const App = () => (
     <TooltipProvider>
       <Toaster />
       <Sonner />
-      <BrowserRouter>
+      <BrowserRouter basename={basename}>
         <ScrollToTop />
         <ConditionalWhatsApp />
         <Routes>
