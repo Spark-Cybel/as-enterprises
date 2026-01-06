@@ -1,0 +1,189 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&family=Open+Sans:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 30 10% 20%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 30 10% 20%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 30 10% 20%;
+
+    --primary: 33 35% 65%;
+    --primary-foreground: 30 15% 15%;
+
+    --secondary: 30 15% 15%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 30 15% 96%;
+    --muted-foreground: 30 10% 45%;
+
+    --accent: 33 40% 70%;
+    --accent-foreground: 30 15% 15%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 30 20% 88%;
+    --input: 30 20% 88%;
+    --ring: 33 35% 65%;
+
+    --radius: 0.5rem;
+
+    /* Custom brand colors */
+    --hero-bg: 30 15% 15%;
+    --hero-overlay: 30 20% 10%;
+    --gold: 33 35% 65%;
+    --gold-hover: 33 40% 55%;
+    --gold-light: 33 30% 80%;
+    --slate-dark: 30 15% 15%;
+    --slate-darker: 30 20% 10%;
+
+    /* Shadows */
+    --shadow-card: 0 4px 20px -4px hsl(30 15% 15% / 0.1);
+    --shadow-card-hover: 0 8px 30px -4px hsl(30 15% 15% / 0.15);
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 30 15% 8%;
+    --foreground: 33 20% 90%;
+
+    --card: 30 15% 12%;
+    --card-foreground: 33 20% 90%;
+
+    --popover: 30 15% 12%;
+    --popover-foreground: 33 20% 90%;
+
+    --primary: 33 35% 65%;
+    --primary-foreground: 30 15% 10%;
+
+    --secondary: 30 12% 20%;
+    --secondary-foreground: 33 20% 90%;
+
+    --muted: 30 10% 18%;
+    --muted-foreground: 30 15% 55%;
+
+    --accent: 33 40% 70%;
+    --accent-foreground: 30 15% 10%;
+
+    --destructive: 0 62% 30%;
+    --destructive-foreground: 0 0% 95%;
+
+    --border: 30 12% 22%;
+    --input: 30 12% 22%;
+    --ring: 33 35% 65%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer components {
+  .hero-section {
+    @apply relative bg-secondary text-secondary-foreground;
+  }
+
+  .hero-overlay {
+    @apply absolute inset-0 bg-gradient-to-r from-secondary/95 via-secondary/80 to-secondary/60;
+  }
+
+  .section-heading {
+    @apply text-2xl md:text-3xl lg:text-4xl font-bold uppercase tracking-wide text-center;
+  }
+
+  .gold-button {
+    @apply bg-primary text-primary-foreground font-semibold px-6 py-3 rounded-md 
+           hover:bg-[hsl(var(--gold-hover))] transition-all duration-300;
+  }
+
+  .card-hover {
+    @apply transition-all duration-300 hover:shadow-lg hover:-translate-y-1;
+  }
+
+  .page-hero {
+    @apply relative py-20 md:py-28 bg-secondary overflow-hidden;
+  }
+
+  .page-hero-content {
+    @apply relative z-10 container mx-auto px-4;
+  }
+
+  .page-hero-title {
+    @apply text-3xl md:text-4xl lg:text-5xl font-bold text-secondary-foreground font-heading;
+  }
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.6s ease-out forwards;
+  }
+
+  .animate-slide-up {
+    animation: slideUp 0.6s ease-out forwards;
+  }
+
+  .animate-count {
+    animation: countUp 2s ease-out forwards;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@keyframes slideUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes countUp {
+  from {
+    opacity: 0;
+    transform: scale(0.5);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
