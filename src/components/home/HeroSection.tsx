@@ -66,7 +66,7 @@ export const HeroSection = () => {
               asChild 
               size="lg" 
               variant="outline"
-              className="border-secondary-foreground/30 text-secondary-foreground hover:bg-secondary-foreground/10"
+              className="border-secondary-foreground text-secondary-foreground bg-transparent hover:bg-secondary-foreground hover:text-secondary"
             >
               <Link to="/products">View Products</Link>
             </Button>

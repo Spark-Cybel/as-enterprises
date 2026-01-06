@@ -7,8 +7,8 @@
       // Single Page App redirect for GitHub Pages
       // This script redirects 404 requests to the main index.html
       // while preserving the original path in the URL
-      // pathSegmentsToKeep = 1 for /as-enterprises/ subdirectory deployment
-      const pathSegmentsToKeep = 1;
+      // pathSegmentsToKeep = 0 for custom domain (root) deployment
+      const pathSegmentsToKeep = 0;
 
       const l = window.location;
       l.replace(
