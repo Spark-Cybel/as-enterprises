@@ -28,7 +28,7 @@ const client = createClient({
   dataset: "production",
   useCdn: false,
   apiVersion: "2024-01-01",
-  token: process.env.SANITY_API_TOKEN,
+  token: process.env.VITE_SANITY_API_TOKEN,
 });
 
 // New site settings content
@@ -584,11 +584,11 @@ async function updateContent() {
   console.log("  - Site settings (tagline, about, why choose us)");
   console.log("  - All 6 articles with new authentic content");
 
-  if (!process.env.SANITY_API_TOKEN) {
+  if (!process.env.VITE_SANITY_API_TOKEN) {
     console.error(
-      "\n❌ Error: SANITY_API_TOKEN not found in environment variables"
+      "\n❌ Error: VITE_SANITY_API_TOKEN not found in environment variables"
     );
-    console.log("Please add SANITY_API_TOKEN to your .env.local file");
+    console.log("Please add VITE_SANITY_API_TOKEN to your .env.local file");
     process.exit(1);
   }
 

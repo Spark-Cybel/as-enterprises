@@ -9,7 +9,7 @@ export const client = createClient({
   apiVersion: "2024-01-01",
 });
 
-// Write client for migrations (uses token from environment)
+// Write client for mutations (uses token from environment)
 export const writeClient = createClient({
   projectId: "g3xfk7os",
   dataset: "production",

@@ -6,7 +6,7 @@
  *
  * Prerequisites:
  * 1. Create a Sanity API token with write access in Sanity Manage
- * 2. Add SANITY_API_TOKEN to your .env.local file
+ * 2. Add VITE_SANITY_API_TOKEN to your .env.local file
  *
  * Usage:
  * npx tsx scripts/migrate-to-sanity.ts
@@ -30,7 +30,7 @@ const client = createClient({
   dataset: "production",
   useCdn: false,
   apiVersion: "2024-01-01",
-  token: process.env.SANITY_API_TOKEN,
+  token: process.env.VITE_SANITY_API_TOKEN,
 });
 
 // Static data (copied from src/data files)
@@ -830,11 +830,11 @@ async function migrate() {
   console.log("Project ID: g3xfk7os");
   console.log("Dataset: production");
 
-  if (!process.env.SANITY_API_TOKEN) {
+  if (!process.env.VITE_SANITY_API_TOKEN) {
     console.error(
-      "❌ Error: SANITY_API_TOKEN not found in environment variables"
+      "❌ Error: VITE_SANITY_API_TOKEN not found in environment variables"
     );
-    console.log("Please add SANITY_API_TOKEN to your .env.local file");
+    console.log("Please add VITE_SANITY_API_TOKEN to your .env.local file");
     process.exit(1);
   }
 

@@ -17,6 +17,7 @@ import ContactUs from "./pages/ContactUs";
 import NotFound from "./pages/NotFound";
 
 const StudioPage = lazy(() => import("./studio/Studio"));
+const InternalInvoice = lazy(() => import("./pages/InternalInvoice"));
 
 const queryClient = new QueryClient();
 
@@ -25,7 +26,7 @@ const basename = import.meta.env.BASE_URL;
 
 const ConditionalWhatsApp = () => {
   const location = useLocation();
-  if (location.pathname.startsWith("/studio")) return null;
+  if (location.pathname.startsWith("/studio") || location.pathname.startsWith("/internal-invoice")) return null;
   return <WhatsAppButton phoneNumber="919421209422" message="Hello! I'm interested in your products." />;
 };
 
@@ -53,6 +54,14 @@ const App = () => (
             element={
               <Suspense fallback={<div className="flex items-center justify-center min-h-screen">Loading Studio...</div>}>
                 <StudioPage />
+              </Suspense>
+            }
+          />
+          <Route
+            path="/internal-invoice"
+            element={
+              <Suspense fallback={<div className="flex items-center justify-center min-h-screen">Loading Invoices...</div>}>
+                <InternalInvoice />
               </Suspense>
             }
           />
