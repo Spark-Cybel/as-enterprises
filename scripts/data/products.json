@@ -1,0 +1,5620 @@
+[
+  {
+    "name": "Toilet Roll",
+    "slug": "toilet-roll",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-roll-500x500-1-e1717831868373.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Type",
+        "value": "Soft"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "everywhere"
+      },
+      {
+        "key": "Fabric",
+        "value": "soft"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Material",
+        "value": "paper"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Tissue Roll",
+    "slug": "toilet-tissue-roll",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-tissue-roll-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Hotel, Restaurant and other"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      }
+    ]
+  },
+  {
+    "name": "Dinner Napkin",
+    "slug": "dinner-napkin",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/dinner-napkin-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Size",
+        "value": "40×40"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      }
+    ]
+  },
+  {
+    "name": "Beverage Napkin",
+    "slug": "beverage-napkin",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/beverage-napkin-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Size",
+        "value": "40x40cm"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Hotel, Restaurant and Bar"
+      }
+    ]
+  },
+  {
+    "name": "White Napkin",
+    "slug": "white-napkin",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/white-napkin-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Size",
+        "value": "40×40 cm"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Paper",
+    "slug": "toilet-paper",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-paper-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      },
+      {
+        "key": "Application",
+        "value": "Hotel, Restaurant and other"
+      }
+    ]
+  },
+  {
+    "name": "Table Napkins",
+    "slug": "table-napkins",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/table-napkins-500x500-1-e1717908935798.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Size",
+        "value": "40×40 cm"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Office Hotel, Home, Restaurant"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Paper Roll",
+    "slug": "toilet-paper-roll",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-paper-roll-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Application Hotel, Restaurant and other"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      }
+    ]
+  },
+  {
+    "name": "Bathroom Tissue",
+    "slug": "bathroom-tissue",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/bathroom-tissue-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Pack"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Hotel, Restaurant and other"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      }
+    ]
+  },
+  {
+    "name": "Facial Tissue Dispensers",
+    "slug": "facial-tissue-dispensers",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/facial-tissue-dispenser-aqsa-7231-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Type",
+        "value": "Wet Tissue, Toilet Rolls, Kitchen Tissue , Facial Tissue, Soft"
+      },
+      {
+        "key": "Design",
+        "value": "Plain, Flower printed, Printed"
+      },
+      {
+        "key": "Quantity Per Pack",
+        "value": "100 / 200 / 250"
+      },
+      {
+        "key": "Layer",
+        "value": "Single"
+      }
+    ]
+  },
+  {
+    "name": "Tissue Napkins",
+    "slug": "tissue-napkins",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/tissue-napkins-500x500-1-e1717908920171.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      },
+      {
+        "key": "Size",
+        "value": "40×40 cm"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      }
+    ]
+  },
+  {
+    "name": "Facial Tissue Paper",
+    "slug": "facial-tissue-paper",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/facial-tissue-paper-500x500-1-e1717908968284.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Usage/Application",
+        "value": "Hotel, Restaurant and other"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Box"
+      }
+    ]
+  },
+  {
+    "name": "Cocktail Napkins",
+    "slug": "cocktail-napkins",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cocktail-napkins-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Size",
+        "value": "40×40 cm"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      },
+      {
+        "key": "Application",
+        "value": "Hotel, Restaurant and other"
+      }
+    ]
+  },
+  {
+    "name": "Paper Napkins",
+    "slug": "paper-napkins",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/paper-napkins-500x500-1-e1717908954398.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Size",
+        "value": "7″x13.5″"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "No. of ply",
+        "value": "2"
+      },
+      {
+        "key": "Design",
+        "value": "Plain"
+      },
+      {
+        "key": "Material",
+        "value": "Recycled Pulp"
+      }
+    ]
+  },
+  {
+    "name": "Floor Cleaning Brush",
+    "slug": "floor-cleaning-brush",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/floor-cleaning-brush-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece"
+      },
+      {
+        "key": "Material",
+        "value": "Wood and Plastic"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial and Residential"
+      },
+      {
+        "key": "Purpose",
+        "value": "Cleaning"
+      }
+    ]
+  },
+  {
+    "name": "Dust Remover",
+    "slug": "dust-remover",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/dust-remover-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Box"
+      },
+      {
+        "key": "Length",
+        "value": "15-20 inch"
+      },
+      {
+        "key": "Weight",
+        "value": "Upto 1 Kg"
+      }
+    ]
+  },
+  {
+    "name": "Scotch Brite Pad",
+    "slug": "scotch-brite-pad",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/scrub-pad-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Size",
+        "value": "2-3/4 in. x 4-1/2 in."
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      },
+      {
+        "key": "Thickness",
+        "value": "6 to 18 mm"
+      },
+      {
+        "key": "Material",
+        "value": "Sponge"
+      }
+    ]
+  },
+  {
+    "name": "White Napkins",
+    "slug": "white-napkins",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/napkins-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Size",
+        "value": "40×40 cm"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Office Hotel,Home,Restaurant"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Bowl Brushes",
+    "slug": "toilet-bowl-brushes",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-bowl-brushes-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Toilet Bowl Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "Blue & White"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Box"
+      }
+    ]
+  },
+  {
+    "name": "Bathroom Toilet Brushes",
+    "slug": "bathroom-toilet-brushes",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/bathroom-toilet-brushes-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Toilet Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "Sky Blue"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Brush Material",
+        "value": "Nylon"
+      }
+    ]
+  },
+  {
+    "name": "Dish Washing Brushes",
+    "slug": "dish-washing-brushes",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/dish-washing-brushes-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Bristle Material",
+        "value": "Nylon"
+      },
+      {
+        "key": "Color",
+        "value": "Black, Blue, Red, Orange & White"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      }
+    ]
+  },
+  {
+    "name": "Floor Brush",
+    "slug": "floor-brush",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/floor-brush-500x500-1-e1717908993212.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Bristle Material",
+        "value": "Nylon"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      },
+      {
+        "key": "Brush Shape",
+        "value": "Rectangular"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Brushes",
+    "slug": "toilet-brushes",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-brushes-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Color",
+        "value": "Green"
+      },
+      {
+        "key": "Brush Material",
+        "value": "Nylon"
+      }
+    ]
+  },
+  {
+    "name": "Baby Bottle Brush",
+    "slug": "baby-bottle-brush",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/baby-bottle-brush-500x500-2.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "PP , PBT , Polyester"
+      },
+      {
+        "key": "Size",
+        "value": "0.15"
+      },
+      {
+        "key": "Color",
+        "value": "Pink, Green, Blue & Yellow"
+      },
+      {
+        "key": "Brush Material",
+        "value": "Nylon"
+      }
+    ]
+  },
+  {
+    "name": "Carpet Cleaning Brush",
+    "slug": "carpet-cleaning-brush",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/carpet-cleaning-brush-500x500-1-e1717909314443.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Bristle Material",
+        "value": "Nylon"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Cleaning Brush",
+    "slug": "toilet-cleaning-brush",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/1111-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Toilet Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "Blue"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Brush Material",
+        "value": "Nylon"
+      }
+    ]
+  },
+  {
+    "name": "Plastic Toilet Brush",
+    "slug": "plastic-toilet-brush",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/plastic-toilet-brush-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Toilet Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Features",
+        "value": "Brightens Your Toilets Bathrooms"
+      },
+      {
+        "key": "Brush Material",
+        "value": "Nylon"
+      }
+    ]
+  },
+  {
+    "name": "Kitchen Sponge",
+    "slug": "kitchen-sponge",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/kitchen-sponge-500x500-1-e1717909047455.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Box"
+      },
+      {
+        "key": "Quantity Per Pack",
+        "value": "12"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      },
+      {
+        "key": "Color",
+        "value": "Yellow"
+      }
+    ]
+  },
+  {
+    "name": "Pot Scrubbers",
+    "slug": "pot-scrubbers",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/pot-scourers-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Quantity Per Pac",
+        "value": "12"
+      },
+      {
+        "key": "Usage",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Application",
+        "value": "Industrial, Commercial And Residential"
+      },
+      {
+        "key": "Color",
+        "value": "Green"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      }
+    ]
+  },
+  {
+    "name": "Scrub Sponge",
+    "slug": "scrub-sponge",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/scrub-sponge-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "Yellow"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Box"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      },
+      {
+        "key": "Material",
+        "value": "Sponge"
+      }
+    ]
+  },
+  {
+    "name": "Cleaning Pads",
+    "slug": "cleaning-pads",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cleaning-pads-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Quantity Per Pack",
+        "value": "10"
+      },
+      {
+        "key": "Material",
+        "value": "Nylon"
+      },
+      {
+        "key": "Color",
+        "value": "Green"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      }
+    ]
+  },
+  {
+    "name": "Cleaning Scrubbers",
+    "slug": "cleaning-scrubbers",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cleaning-scrubbers-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "100 Piece"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      },
+      {
+        "key": "Color",
+        "value": "Yellow & Green"
+      },
+      {
+        "key": "Quantity Per Pack",
+        "value": "1"
+      },
+      {
+        "key": "Material",
+        "value": "Polyester"
+      },
+      {
+        "key": "Thickness",
+        "value": "8mm"
+      }
+    ]
+  },
+  {
+    "name": "Cellulose Sponges",
+    "slug": "cellulose-sponges",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cellulose-sponges-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Color",
+        "value": "Yellow, Orange, Green & Blue"
+      },
+      {
+        "key": "Quantity Per Pack",
+        "value": "12"
+      },
+      {
+        "key": "Material",
+        "value": "Sponge"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      }
+    ]
+  },
+  {
+    "name": "Tube Cleaning Brush",
+    "slug": "tube-cleaning-brush",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/tube-cleaning-brush-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "Stainless, Plastic, Steel Wire, Brass"
+      },
+      {
+        "key": "Brush Diameter",
+        "value": "2mm"
+      },
+      {
+        "key": "Length Standard",
+        "value": "12-19cm"
+      },
+      {
+        "key": "Bristle Diameter",
+        "value": "0.1mm-0.8mm"
+      },
+      {
+        "key": "Stainless Steel Diameter",
+        "value": "0.4mm-1.0mm"
+      }
+    ]
+  },
+  {
+    "name": "Double Hockey Plastic Toilet Brush",
+    "slug": "double-hockey-plastic-toilet-brush",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/double-hockey-plastic-toilet-brush-500x500-1-e1717832176547.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece"
+      },
+      {
+        "key": "Size",
+        "value": "standard"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Toilet Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "multicolour"
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Features",
+        "value": "Brightens Your Toilets and Bathrooms"
+      },
+      {
+        "key": "Hangable",
+        "value": "yes"
+      },
+      {
+        "key": "Packaging",
+        "value": "plastic pack"
+      },
+      {
+        "key": "Vendor",
+        "value": "AGM Enterprises"
+      },
+      {
+        "key": "Delivery Time",
+        "value": "2 working days"
+      }
+    ]
+  },
+  {
+    "name": "Cleaning Sponge",
+    "slug": "cleaning-sponge",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2017/10/cleaning-stick-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece."
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning."
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular."
+      },
+      {
+        "key": "Material",
+        "value": "Sponge."
+      }
+    ]
+  },
+  {
+    "name": "Perforated Pedal Bins",
+    "slug": "perforated-pedal-bins",
+    "category": "Buckets, Mugs & Storage Bins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2017/08/perforated-pedal-bin-500x500-1.png",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece."
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Home, Office & Hospital."
+      },
+      {
+        "key": "Finishing",
+        "value": "Polished."
+      },
+      {
+        "key": "Grade",
+        "value": "SS304."
+      },
+      {
+        "key": "Shape",
+        "value": "Round."
+      },
+      {
+        "key": "Available Size",
+        "value": "7×10,8×12,10×14,2×20 Inches."
+      },
+      {
+        "key": "Material",
+        "value": "Stainless Steel."
+      }
+    ]
+  },
+  {
+    "name": "Tissue Paper",
+    "slug": "tissue-paper",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2013/06/tissue-paper-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From."
+      },
+      {
+        "key": "Type",
+        "value": "Facial Tissue, Soft."
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Hotel, Restaurant and other."
+      },
+      {
+        "key": "Size",
+        "value": "40×40 cm."
+      },
+      {
+        "key": "Color",
+        "value": "White."
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain."
+      },
+      {
+        "key": "Packing (per packet)",
+        "value": "100"
+      }
+    ]
+  },
+  {
+    "name": "Naphthalene Balls",
+    "slug": "naphthalene-balls",
+    "category": "Mosquito & Insect Repellent",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2013/06/naphthalene-balls-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece."
+      },
+      {
+        "key": "Shape",
+        "value": "Solid."
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Car, Kitchen, Wardrobe, etc."
+      },
+      {
+        "key": "Feature",
+        "value": "99% Naphthalene."
+      },
+      {
+        "key": "Type",
+        "value": "Air Freshener and Mosquito Insect Repellent."
+      }
+    ]
+  },
+  {
+    "name": "Rubber Squeegee",
+    "slug": "rubber-squeegee",
+    "category": "Brooms & Dusters",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2013/06/rubber-squeegee-500x500-1-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From."
+      },
+      {
+        "key": "Pole Material",
+        "value": "Aluminium."
+      },
+      {
+        "key": "Material",
+        "value": "plastic."
+      },
+      {
+        "key": "Size",
+        "value": "as per customer."
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning."
+      },
+      {
+        "key": "Color",
+        "value": "Yellow."
+      },
+      {
+        "key": "Mop Head Material",
+        "value": "PP"
+      }
+    ]
+  },
+  {
+    "name": "Electronic Aroma Diffuser",
+    "slug": "electronic-aroma-diffuser",
+    "category": "Electronic Aroma Diffuser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2013/06/electronic-aroma-diffuser-500x500-1-e1717909537846.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Piece."
+      },
+      {
+        "key": "Material",
+        "value": "PP."
+      },
+      {
+        "key": "Packing Type",
+        "value": "Box."
+      },
+      {
+        "key": "Product Type",
+        "value": "Warm Mist Humidifier."
+      },
+      {
+        "key": "Installation",
+        "value": "Tabletop / Portable."
+      }
+    ]
+  },
+  {
+    "name": "Single Disc Machine",
+    "slug": "single-disc-machine",
+    "category": "Single Disc Machine",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2013/06/single-disc-machine-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Frequency",
+        "value": "50 Hz"
+      },
+      {
+        "key": "Transmission",
+        "value": "Belt Drive"
+      },
+      {
+        "key": "Voltage",
+        "value": "220-240 V"
+      },
+      {
+        "key": "Motor Power",
+        "value": "1.5 HP"
+      },
+      {
+        "key": "Brush Speed (rpm)",
+        "value": "165"
+      },
+      {
+        "key": "Cleaning brush Dia",
+        "value": "17 inch"
+      },
+      {
+        "key": "Net Weight (w/o tank)",
+        "value": "43 (kg)"
+      }
+    ]
+  },
+  {
+    "name": "Scent Diffuser System",
+    "slug": "scent-diffuser-system",
+    "category": "Air Scenting Unit",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2013/06/scent-diffuser-system-air-holding-unit-500x500-1.jpeg",
+    "description": null,
+    "details": [
+      {
+        "key": "Usage/Application",
+        "value": "Hotels, Conference Hall, Spa, Malls, Showrooms, Lobby, Big Halls, Salons."
+      },
+      {
+        "key": "Brand",
+        "value": "AQSA."
+      },
+      {
+        "key": "Capacity",
+        "value": "Area from 3000 sq ft- 50000 sqft."
+      }
+    ]
+  },
+  {
+    "name": "Premium Hand Sanitizer",
+    "slug": "premium-hand-sanitizer",
+    "category": "Hand Sanitizers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2013/06/premium-hand-sanitizer-500x500-1-1-e1717909342627.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Can"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 litres"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Brand",
+        "value": "AQSA"
+      },
+      {
+        "key": "Alcohol Content",
+        "value": "Above 80%"
+      },
+      {
+        "key": "Type of Alcohol",
+        "value": "Ethanol"
+      },
+      {
+        "key": "Other Ingredients",
+        "value": "Glycerol"
+      },
+      {
+        "key": "Fragrance",
+        "value": "Lavender"
+      },
+      {
+        "key": "Other Active Ingredients",
+        "value": "Glycerol"
+      },
+      {
+        "key": "Quantity Per Crate",
+        "value": "5 litres"
+      },
+      {
+        "key": "Delivery Time",
+        "value": "2 working days"
+      },
+      {
+        "key": "Packaging Details",
+        "value": "available in plastic cans"
+      }
+    ]
+  },
+  {
+    "name": "Automatic Disinfection Chamber – Disinfection Unit",
+    "slug": "automatic-disinfection-chamber-disinfection-unit",
+    "category": "Body Disinfection Chamber",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2013/06/mobile-disinfection-unit-chamber-500x500-1-e1717830035501.jpeg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit."
+      },
+      {
+        "key": "Brand",
+        "value": "Easy Move."
+      },
+      {
+        "key": "Material",
+        "value": "Ethylene Oxide Sterilizer."
+      },
+      {
+        "key": "Production Capacity",
+        "value": "Sanitizes one human body in 20 seconds"
+      }
+    ]
+  },
+  {
+    "name": "Vacuum Cleaners",
+    "slug": "vacuum-cleaners",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2013/06/vacuum-cleaners-500x500-1-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Piece."
+      },
+      {
+        "key": "Air Flow",
+        "value": "30L/min."
+      },
+      {
+        "key": "Voltage",
+        "value": "DC 12V."
+      },
+      {
+        "key": "Pressure",
+        "value": "250psi."
+      },
+      {
+        "key": "Nozzles Included",
+        "value": "3."
+      },
+      {
+        "key": "Coil Air Hose",
+        "value": "3 m."
+      }
+    ]
+  },
+  {
+    "name": "Scotch Brite",
+    "slug": "scotch-brite",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/scotch-brite-500x500-1-e1717832056827.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Packaging Type",
+        "value": "Pack"
+      },
+      {
+        "key": "Form",
+        "value": "Solid"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning the kitchen top, dinning table top etc."
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Size",
+        "value": "Standard"
+      },
+      {
+        "key": "Color",
+        "value": "multicolour"
+      },
+      {
+        "key": "Material",
+        "value": "sponge"
+      }
+    ]
+  },
+  {
+    "name": "Sponge Wipe",
+    "slug": "sponge-wipe",
+    "category": "Cleaning Brushes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/sponge-wipe-500x500-1-e1717832193966.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Packaging Type",
+        "value": "Pack"
+      },
+      {
+        "key": "Form",
+        "value": "Solid"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning the kitchen top, dinning table top etc."
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Size",
+        "value": "Standard"
+      },
+      {
+        "key": "Color",
+        "value": "multicolour"
+      },
+      {
+        "key": "Material",
+        "value": "sponge"
+      }
+    ]
+  },
+  {
+    "name": "Plastic Dustbin",
+    "slug": "plastic-dustbin",
+    "category": "Buckets, Mugs & Storage Bins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/plastic-dustbin-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Structure",
+        "value": "Open Top"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Office, Home, Hospital"
+      },
+      {
+        "key": "Material",
+        "value": "Polypropylene"
+      },
+      {
+        "key": "Usage",
+        "value": "Industrial"
+      }
+    ]
+  },
+  {
+    "name": "Stainless Steel Planters",
+    "slug": "stainless-steel-planters",
+    "category": "Buckets, Mugs & Storage Bins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/planter-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Home, Office"
+      },
+      {
+        "key": "Shape",
+        "value": "Cylinder"
+      },
+      {
+        "key": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "key": "Capacity",
+        "value": "10 x 10, 12 x 12, 14 x 14, 15 x 15 Inches"
+      },
+      {
+        "key": "Material Grade",
+        "value": "SS304"
+      }
+    ]
+  },
+  {
+    "name": "Yellow Dustbin",
+    "slug": "yellow-dustbin",
+    "category": "Buckets, Mugs & Storage Bins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/dustbin-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece"
+      },
+      {
+        "key": "Color",
+        "value": "Yellow"
+      },
+      {
+        "key": "Structure",
+        "value": "Open Top"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Office, Home, Hospital"
+      },
+      {
+        "key": "Usage",
+        "value": "Industrial"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      }
+    ]
+  },
+  {
+    "name": "Feminine Hygiene Bin",
+    "slug": "feminine-hygiene-bin",
+    "category": "Buckets, Mugs & Storage Bins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/feminine-hygiene-bin-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "Stainless Steel, PVC, Plastic"
+      },
+      {
+        "key": "Structure",
+        "value": "Standing"
+      },
+      {
+        "key": "Capacity",
+        "value": "1-5 Liters"
+      },
+      {
+        "key": "Surface Treatment",
+        "value": "Color Coated"
+      },
+      {
+        "key": "Design",
+        "value": "Standard"
+      }
+    ]
+  },
+  {
+    "name": "Automatic Disinfection Chamber",
+    "slug": "automatic-disinfection-chamber",
+    "category": "Body Disinfection Chamber",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/mobile-disinfection-unit-chamber-500x500-1-e1717832285557.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Brand",
+        "value": "Easy Move"
+      },
+      {
+        "key": "Material",
+        "value": "Ethylene Oxide Sterilizer"
+      },
+      {
+        "key": "Production Capacity",
+        "value": "Sanitizes one human body in 20 seconds"
+      }
+    ]
+  },
+  {
+    "name": "Moth Balls",
+    "slug": "moth-balls",
+    "category": "Mosquito & Insect Repellent",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/mothballs-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Shape",
+        "value": "Round"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "Packet"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Mosquito and Insect Repellent and Air Freshener"
+      },
+      {
+        "key": "Purity",
+        "value": "99%"
+      }
+    ]
+  },
+  {
+    "name": "Odomos Mosquito Repellent",
+    "slug": "odomos-mosquito-repellent",
+    "category": "Mosquito & Insect Repellent",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/odomos-mosquito-repellent-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Tube"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Mosquito and Insect Repellent"
+      },
+      {
+        "key": "Type",
+        "value": "Odomos Spray"
+      },
+      {
+        "key": "State",
+        "value": "Semi Solid and Liquid"
+      }
+    ]
+  },
+  {
+    "name": "Mosquito Repellent Spray",
+    "slug": "mosquito-repellent-spray",
+    "category": "Mosquito & Insect Repellent",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/mosquito-repellent-spray-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Brand",
+        "value": "Agm Enterprises"
+      },
+      {
+        "key": "Material",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Mosquito and insect repellent"
+      }
+    ]
+  },
+  {
+    "name": "Magic Mop",
+    "slug": "magic-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/magic-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Pole Material",
+        "value": "Steel"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "Purple"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      }
+    ]
+  },
+  {
+    "name": "Mop Pad",
+    "slug": "mop-pad",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/mop-pad-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial And Residentia"
+      },
+      {
+        "key": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "Purpose",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      }
+    ]
+  },
+  {
+    "name": "Cleaning Mop",
+    "slug": "cleaning-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cleaning-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial and Residential"
+      },
+      {
+        "key": "Purpose",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Brush Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "Rod Material",
+        "value": "Stainless Steel"
+      }
+    ]
+  },
+  {
+    "name": "Kentucky Mop Clip",
+    "slug": "kentucky-mop-clip",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/kentucky-mop-clip-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Size",
+        "value": "6″"
+      },
+      {
+        "key": "Color",
+        "value": "Blue & White"
+      },
+      {
+        "key": "Material",
+        "value": "PP"
+      }
+    ]
+  },
+  {
+    "name": "Plastic Mop",
+    "slug": "plastic-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/plastic-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic, Cotton and Steel Pipe"
+      },
+      {
+        "key": "Weight",
+        "value": "458gm"
+      },
+      {
+        "key": "Pipe Size",
+        "value": "46 inches"
+      }
+    ]
+  },
+  {
+    "name": "Mop Rod",
+    "slug": "mop-rod",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/mop-rod-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "Aluminum, Iron Powder Coating"
+      },
+      {
+        "key": "Size",
+        "value": "36″, 44″, 48″, 60″"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and commercial"
+      },
+      {
+        "key": "Brand",
+        "value": "Agm Enterprises"
+      }
+    ]
+  },
+  {
+    "name": "Kentucky Mop",
+    "slug": "kentucky-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/kentucky-mop-500x500-1-e1717909377975.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Size",
+        "value": "6″x17″"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Cotton, Microfiber"
+      },
+      {
+        "key": "Available Color",
+        "value": "White, Blue, Green, Red, Yellow"
+      }
+    ]
+  },
+  {
+    "name": "Acrylic Dry Mop",
+    "slug": "acrylic-dry-mop-2",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/acrylic-dry-mop-500x500-1-e1717831304353.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "Acrylic, Cotton, Microfiber"
+      },
+      {
+        "key": "Size",
+        "value": "60cm"
+      },
+      {
+        "key": "Usage",
+        "value": "Industrial"
+      },
+      {
+        "key": "Available Color",
+        "value": "Blue, Red, Green, Yellow, White"
+      }
+    ]
+  },
+  {
+    "name": "PVA Mops",
+    "slug": "pva-mops",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/pva-mops-500x500-2.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Brand",
+        "value": "Agm Enterprises"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial, Residential"
+      },
+      {
+        "key": "Material",
+        "value": "Cotton Microfiber"
+      },
+      {
+        "key": "Available Color",
+        "value": "Blue, Red, Green, Yellow"
+      }
+    ]
+  },
+  {
+    "name": "Dust Mop",
+    "slug": "dust-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/dust-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "100 Piece"
+      },
+      {
+        "key": "Pole Material",
+        "value": "Aluminium"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial, Residential"
+      },
+      {
+        "key": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "Purpose",
+        "value": "Dry Cleaning"
+      }
+    ]
+  },
+  {
+    "name": "Sponge Mop",
+    "slug": "sponge-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/sponge-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Brand",
+        "value": "Agm Enterprises"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Mop Head Material",
+        "value": "Sponge"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      }
+    ]
+  },
+  {
+    "name": "Microfiber Mop",
+    "slug": "microfiber-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/microfiber-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial and Residential"
+      },
+      {
+        "key": "Size",
+        "value": "6″x17″"
+      },
+      {
+        "key": "Material",
+        "value": "Microfiber, Cotton"
+      },
+      {
+        "key": "Available Color",
+        "value": "White, Red, Blue, Green, Yellow"
+      }
+    ]
+  },
+  {
+    "name": "Twist Mop",
+    "slug": "twist-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/twist-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Brand",
+        "value": "Agm Enterprises"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial, Residential"
+      },
+      {
+        "key": "Material",
+        "value": "Cotton Microfiber"
+      },
+      {
+        "key": "Available Color",
+        "value": "Blue, Red, Green, Yellow"
+      }
+    ]
+  },
+  {
+    "name": "Cotton Mop Refill",
+    "slug": "cotton-mop-refill",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cotton-mop-refill-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial and Residential"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Box"
+      },
+      {
+        "key": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      }
+    ]
+  },
+  {
+    "name": "Industrial Vacuum Cleaners",
+    "slug": "industrial-vacuum-cleaners",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/industrial-vacuum-cleaners-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Operation Mode",
+        "value": "Semi-Automatic, Manual"
+      },
+      {
+        "key": "Power",
+        "value": "3 Kw"
+      },
+      {
+        "key": "Usage",
+        "value": "Office"
+      },
+      {
+        "key": "Air Flow",
+        "value": "87 l/sec"
+      },
+      {
+        "key": "Frequency",
+        "value": "50 Hz"
+      },
+      {
+        "key": "Voltage",
+        "value": "400 V"
+      },
+      {
+        "key": "Weight",
+        "value": "103 (kg)"
+      },
+      {
+        "key": "Sound Level",
+        "value": "70 dB"
+      },
+      {
+        "key": "Wattage",
+        "value": "3000 W"
+      },
+      {
+        "key": "Suction",
+        "value": "310 (Mbar)"
+      }
+    ]
+  },
+  {
+    "name": "Cleaning Machinery",
+    "slug": "cleaning-machinery",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/cleaning-machinery-500x500-1.jpg",
+    "description": null,
+    "details": []
+  },
+  {
+    "name": "High Pressure Cleaners",
+    "slug": "high-pressure-cleaners",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/high-pressure-cleaners-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Power",
+        "value": "1.3 Kw"
+      },
+      {
+        "key": "Voltage",
+        "value": "230 V"
+      },
+      {
+        "key": "Weight",
+        "value": "6.5 Kg"
+      },
+      {
+        "key": "Speed",
+        "value": "3400 Rpm"
+      },
+      {
+        "key": "Flow Rate",
+        "value": "360 ltr/hour"
+      },
+      {
+        "key": "Frequency",
+        "value": "1~50 Hz"
+      },
+      {
+        "key": "Dimensions Data",
+        "value": "230x220x460 mm"
+      },
+      {
+        "key": "IP Protection",
+        "value": "X5-S1"
+      },
+      {
+        "key": "Cleaning Impact",
+        "value": "1.5 kg/force"
+      }
+    ]
+  },
+  {
+    "name": "Floor Cleaning Machine",
+    "slug": "floor-cleaning-machine",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/floor-cleaning-machine-500x500-1.jpg",
+    "description": null,
+    "details": []
+  },
+  {
+    "name": "Restaurant Napkin",
+    "slug": "restaurant-napkin",
+    "category": "Tissue Paper Napkins",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/restaurant-napkin-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Size",
+        "value": "40×40 cm"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Pattern",
+        "value": "Plain"
+      },
+      {
+        "key": "Fabric",
+        "value": "Microfiber"
+      }
+    ]
+  },
+  {
+    "name": "High Pressure Washers",
+    "slug": "high-pressure-washers",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/high-pressure-washers-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Operation Mode",
+        "value": "Semi-Automatic, Manual"
+      },
+      {
+        "key": "Hose Length",
+        "value": "8 (MT)"
+      },
+      {
+        "key": "Voltage",
+        "value": "230 (V)"
+      },
+      {
+        "key": "Cable Length",
+        "value": "5 (MT)"
+      },
+      {
+        "key": "Max Pressure",
+        "value": "160 (Bar)"
+      },
+      {
+        "key": "Max Delivery Rate",
+        "value": "400 (L/H)"
+      }
+    ]
+  },
+  {
+    "name": "Automatic Hand Dryers",
+    "slug": "automatic-hand-dryers",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2017/09/automatic-hand-dryers-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Voltage",
+        "value": "220 V."
+      },
+      {
+        "key": "Air Speed",
+        "value": "14m/s."
+      },
+      {
+        "key": "Drying Time",
+        "value": "20Sec."
+      },
+      {
+        "key": "Power",
+        "value": "1800 W."
+      },
+      {
+        "key": "Noise Level",
+        "value": "30 db."
+      },
+      {
+        "key": "Size/Dimension",
+        "value": "290*158*300 mm."
+      },
+      {
+        "key": "Sensing Range",
+        "value": "12cm +/- 3cm"
+      },
+      {
+        "key": "Frequency",
+        "value": "50 Hz"
+      },
+      {
+        "key": "Body Material",
+        "value": "ABS Plastic"
+      },
+      {
+        "key": "Continous Work Time",
+        "value": "45sec-1min"
+      }
+    ]
+  },
+  {
+    "name": "Dry Vacuum Cleaner",
+    "slug": "dry-vacuum-cleaner",
+    "category": "Vacuum Cleaner",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2017/09/dry-vacuum-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": []
+  },
+  {
+    "name": "Air Revitalizer",
+    "slug": "air-revitalizer",
+    "category": "Air Purifiers & Fresheners",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2017/10/air-revitaliser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Power (W)",
+        "value": "13W"
+      },
+      {
+        "key": "Automatic Grade",
+        "value": "Automatic"
+      },
+      {
+        "key": "Color",
+        "value": "White, Green"
+      },
+      {
+        "key": "Model",
+        "value": "606"
+      },
+      {
+        "key": "Warranty (month)",
+        "value": "6 months"
+      }
+    ]
+  },
+  {
+    "name": "Sensor Dispenser",
+    "slug": "sensor-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2017/10/sensor-dispenser-500x500-1-e1717909553969.jpg",
+    "description": null,
+    "details": []
+  },
+  {
+    "name": "Fiberglass Cleaner",
+    "slug": "fiberglass-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2017/09/fiberglass-cleaner-500x500-1.jpeg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Fiberglass Cleaner"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "650 ml"
+      },
+      {
+        "key": "Size container",
+        "value": "Liter"
+      },
+      {
+        "key": "Physical state",
+        "value": "liquid"
+      },
+      {
+        "key": "Colour",
+        "value": "Blue"
+      },
+      {
+        "key": "Fragrance",
+        "value": "None"
+      },
+      {
+        "key": "Foaming action",
+        "value": "Low"
+      },
+      {
+        "key": "Acid content",
+        "value": "None"
+      },
+      {
+        "key": "Biodegradable",
+        "value": "Yes"
+      },
+      {
+        "key": "PH (10%Solution)",
+        "value": "7.00 to 7.5"
+      }
+    ]
+  },
+  {
+    "name": "Paper Cup Dispenser",
+    "slug": "paper-cup-dispenser",
+    "category": "Paper Cup Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2017/10/paper-cup-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": []
+  },
+  {
+    "name": "Industrial Cleaning Equipment",
+    "slug": "industrial-cleaning-equipment",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/industrial-cleaning-equipment-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Voltage and Frequency",
+        "value": "220-230VAC/50Hz"
+      },
+      {
+        "key": "Brush Size",
+        "value": "18′"
+      },
+      {
+        "key": "Water Sucker",
+        "value": "770mm"
+      },
+      {
+        "key": "Brush Diameter",
+        "value": "455mm"
+      }
+    ]
+  },
+  {
+    "name": "Floor Scrubbers",
+    "slug": "floor-scrubbers",
+    "category": "Uncategorized",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/floor-scrubbers-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Voltage",
+        "value": "230 V / 50 Hz"
+      },
+      {
+        "key": "Speed",
+        "value": "180 / 380 RPM"
+      },
+      {
+        "key": "Working Width",
+        "value": "430 mm / 17"
+      },
+      {
+        "key": "Total Power Max",
+        "value": "1500 Watt"
+      }
+    ]
+  },
+  {
+    "name": "Pressure Washers",
+    "slug": "pressure-washers",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/pressure-washers-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Piece"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial And Commercial"
+      },
+      {
+        "key": "Working Pressure",
+        "value": "150bar / 2204 Psi"
+      },
+      {
+        "key": "Max Pressure",
+        "value": "190bar / 2782 Psi"
+      },
+      {
+        "key": "Operation",
+        "value": "Automatic And Semi Automatic"
+      }
+    ]
+  },
+  {
+    "name": "Wet Vacuum Cleaner",
+    "slug": "wet-vacuum-cleaner",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/wet-vacuum-cleaner-500x500-1-e1717909495570.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Power",
+        "value": "1000 W"
+      },
+      {
+        "key": "Voltage",
+        "value": "220 V ~ 240 V"
+      },
+      {
+        "key": "Recycle Air Flow Rate",
+        "value": "53L/S"
+      },
+      {
+        "key": "Vacuum Suction",
+        "value": "2000 mm"
+      }
+    ]
+  },
+  {
+    "name": "Vacuum Cleaning Machine",
+    "slug": "vacuum-cleaning-machine",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/vacuum-cleaning-machine-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      },
+      {
+        "key": "Operation Mode",
+        "value": "Automatic, Semi-Automatic"
+      },
+      {
+        "key": "Usage",
+        "value": "Office"
+      },
+      {
+        "key": "Voltage",
+        "value": "230 V / 50 Hz"
+      },
+      {
+        "key": "Power",
+        "value": "1000 W"
+      }
+    ]
+  },
+  {
+    "name": "Sanitary Pad Vending Machine",
+    "slug": "sanitary-pad-vending-machine",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/sanitary-pad-vending-machine-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Usage Hospitals, Offices, School & Colleges"
+      },
+      {
+        "key": "Storage Capacity",
+        "value": "40 Napkins"
+      },
+      {
+        "key": "Mounting Option",
+        "value": "Wall Mounted"
+      },
+      {
+        "key": "Features",
+        "value": "Coin Operated"
+      }
+    ]
+  },
+  {
+    "name": "Shoe Polish Machine",
+    "slug": "shoe-polish-machine",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/shoe-polish-machine-500x500-1-e1717909513320.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Automation Grade",
+        "value": "Automatic"
+      },
+      {
+        "key": "Sole Cleaner",
+        "value": "No"
+      },
+      {
+        "key": "Power Source",
+        "value": "Electricity"
+      },
+      {
+        "key": "Type",
+        "value": "Shoe Polish Machine"
+      },
+      {
+        "key": "Surface Treatment",
+        "value": "Color Coated"
+      }
+    ]
+  },
+  {
+    "name": "Shoe Shine Machine",
+    "slug": "shoe-shine-machine",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/shoe-shine-machine-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Power Consumption",
+        "value": "40Watt"
+      },
+      {
+        "key": "RPM",
+        "value": "1400"
+      },
+      {
+        "key": "Voltage",
+        "value": "220V/50Hz"
+      },
+      {
+        "key": "Autocut",
+        "value": "1min Autocut"
+      },
+      {
+        "key": "Polish Capacity",
+        "value": "200ml"
+      }
+    ]
+  },
+  {
+    "name": "Shoe Shine Machine with Sole Cleaner",
+    "slug": "shoe-shine-machine-with-sole-cleaner",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/shoe-shine-machine-with-sole-cleaner-500x500-1-e1717831081295.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Power Consumption",
+        "value": "40Watt"
+      },
+      {
+        "key": "RPM",
+        "value": "1400"
+      },
+      {
+        "key": "Autocut",
+        "value": "30 second auto cut off"
+      },
+      {
+        "key": "Polish Capacity",
+        "value": "200ml"
+      },
+      {
+        "key": "Voltage",
+        "value": "220V/50Hz"
+      }
+    ]
+  },
+  {
+    "name": "Industrial Cleaning Machine",
+    "slug": "industrial-cleaning-machine",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/industrial-cleaning-machine-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Weight",
+        "value": "25 kgs"
+      },
+      {
+        "key": "Cleaning Width",
+        "value": "700 mm"
+      },
+      {
+        "key": "Hopper Capacity",
+        "value": "40 ltrs"
+      },
+      {
+        "key": "Dimensions",
+        "value": "790 x 760 x 460 mm"
+      },
+      {
+        "key": "Tank Capacity",
+        "value": "35 lts"
+      },
+      {
+        "key": "Noise Level",
+        "value": "65"
+      }
+    ]
+  },
+  {
+    "name": "Scrubbing Machines",
+    "slug": "scrubbing-machines",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/scrubbing-machines-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Brush Speed",
+        "value": "165 (rpm)"
+      },
+      {
+        "key": "Model",
+        "value": "430"
+      },
+      {
+        "key": "Motor",
+        "value": "1000 W"
+      },
+      {
+        "key": "Brush",
+        "value": "430 (rpm)"
+      },
+      {
+        "key": "Pad Driver",
+        "value": "420 (mm)"
+      },
+      {
+        "key": "Stripping Pad",
+        "value": "430 (mm)"
+      },
+      {
+        "key": "Solution Pad",
+        "value": "10 (mm)"
+      },
+      {
+        "key": "Weight with Tank Pad drive",
+        "value": "42 (kg.)"
+      },
+      {
+        "key": "Noise Level",
+        "value": "57"
+      }
+    ]
+  },
+  {
+    "name": "Scrubber Driers",
+    "slug": "scrubber-driers",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/04/scrubber-driers-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Brush Motor",
+        "value": "36/1125 (V/W)"
+      },
+      {
+        "key": "Recovery Tank",
+        "value": "380 (Ltr)"
+      },
+      {
+        "key": "Forward Speed",
+        "value": "0-6 (km/h)"
+      },
+      {
+        "key": "Traction Motor",
+        "value": "36/2000 (V/W)"
+      },
+      {
+        "key": "Batteries",
+        "value": "36/720 (V/Ah C5)"
+      },
+      {
+        "key": "Brushes Pressure",
+        "value": "130-180 Kg"
+      },
+      {
+        "key": "Working Width",
+        "value": "1300 mm"
+      },
+      {
+        "key": "Suction Vacuum",
+        "value": "225 (mbar)"
+      },
+      {
+        "key": "Squeegee Width",
+        "value": "1460 mm"
+      },
+      {
+        "key": "Model Number",
+        "value": "C 130 B"
+      },
+      {
+        "key": "Power Supply",
+        "value": "36/aut. (V/Traction)"
+      },
+      {
+        "key": "Solution Tank",
+        "value": "360 (Ltr)"
+      },
+      {
+        "key": "Productivity",
+        "value": "7800 (m2/h)"
+      },
+      {
+        "key": "Disc Brushes",
+        "value": "345(4) (No.)(mm)"
+      },
+      {
+        "key": "Brushes",
+        "value": "220 rpm"
+      },
+      {
+        "key": "Suction Motor",
+        "value": "36/1170 (V/W)"
+      },
+      {
+        "key": "Max Gradient at Full Load",
+        "value": "10 (%)"
+      },
+      {
+        "key": "Turning Diameter",
+        "value": "3250 mm"
+      },
+      {
+        "key": "Dimensions",
+        "value": "2250x1880x1340 (LxHxW)(mm)"
+      },
+      {
+        "key": "Machine Weight",
+        "value": "1265 kg"
+      }
+    ]
+  },
+  {
+    "name": "Mop Handles",
+    "slug": "mop-handles",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/mop-handles-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial and Residential"
+      },
+      {
+        "key": "Material",
+        "value": "Aluminium, Plastic"
+      },
+      {
+        "key": "Color",
+        "value": "Yellow & Grey"
+      },
+      {
+        "key": "Handle Length",
+        "value": "3-4 Feet"
+      }
+    ]
+  },
+  {
+    "name": "Clip Mop",
+    "slug": "clip-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/clip-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Unit"
+      },
+      {
+        "key": "Material",
+        "value": "Cotton, Microfiber"
+      },
+      {
+        "key": "Size",
+        "value": "6″x17″"
+      },
+      {
+        "key": "Brand",
+        "value": "Agm Enterprises"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial and Residential"
+      }
+    ]
+  },
+  {
+    "name": "Mop Stick",
+    "slug": "mop-stick",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/mop-stick-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, commercial and industrial"
+      },
+      {
+        "key": "Available Material",
+        "value": "Aluminum, Iron Powder Coating, Plastic"
+      },
+      {
+        "key": "Available Size",
+        "value": "36″, 44″, 48″, 60″"
+      },
+      {
+        "key": "Stick Length",
+        "value": "5 Feet Approx"
+      }
+    ]
+  },
+  {
+    "name": "Micro Fiber Cloth",
+    "slug": "micro-fiber-cloth",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/micro-fiber-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "50 Range Start From"
+      },
+      {
+        "key": "Size",
+        "value": "40 x 40 cm"
+      },
+      {
+        "key": "Quantity Per Pack",
+        "value": "25/50/100/200"
+      },
+      {
+        "key": "Thickness",
+        "value": "320 GSM"
+      },
+      {
+        "key": "Fabric",
+        "value": "Cotton"
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      }
+    ]
+  },
+  {
+    "name": "Cotton Mop",
+    "slug": "cotton-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cotton-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial and Residential"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Size",
+        "value": "6×16″"
+      },
+      {
+        "key": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "Purpose",
+        "value": "Cleaning"
+      }
+    ]
+  },
+  {
+    "name": "Glasses Cleaning Cloth",
+    "slug": "glasses-cleaning-cloth",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/glasses-cleaning-cloth-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Glass Cleaning"
+      },
+      {
+        "key": "Size",
+        "value": "30x30cm, 40x40cm, 50x100cm, 40x60cm"
+      },
+      {
+        "key": "Description",
+        "value": "Microfiber Towel"
+      },
+      {
+        "key": "Material",
+        "value": "80% polyester 20% polyamide"
+      }
+    ]
+  },
+  {
+    "name": "Scissor Mop",
+    "slug": "scissor-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/scissor-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Cotton"
+      },
+      {
+        "key": "Weight",
+        "value": "600 gram"
+      },
+      {
+        "key": "Width",
+        "value": "4 inch"
+      },
+      {
+        "key": "Height",
+        "value": "51 inch"
+      }
+    ]
+  },
+  {
+    "name": "Acrylic Dry Mop",
+    "slug": "acrylic-dry-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/acrylic-dry-mop-500x500-1-e1717831304353.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Pole Material",
+        "value": "Aluminium"
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Size",
+        "value": "60 cm"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "multicolour"
+      },
+      {
+        "key": "Mop Head Material",
+        "value": "acrylic"
+      },
+      {
+        "key": "Features",
+        "value": "Reduces bacteria by 96% compared to traditional mops"
+      },
+      {
+        "key": "Pole Color",
+        "value": "aluminium"
+      },
+      {
+        "key": "Yarn Color",
+        "value": "white"
+      },
+      {
+        "key": "Is It Replaceable Head",
+        "value": "Replaceable Head"
+      },
+      {
+        "key": "I Deal In",
+        "value": "New Only"
+      },
+      {
+        "key": "Adjustable Handle",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "name": "Round Mop",
+    "slug": "round-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/round-mop-500x500-1-e1717832364585.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Piece"
+      },
+      {
+        "key": "Pole Material",
+        "value": "Aluminium"
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "Multicolour"
+      },
+      {
+        "key": "Mop Head Material",
+        "value": "cotton"
+      },
+      {
+        "key": "Features",
+        "value": "Round mops are one of the fastest and most convenient ways to clean up the floor"
+      },
+      {
+        "key": "Weight",
+        "value": "458gm"
+      },
+      {
+        "key": "Bucket Material",
+        "value": "Plastic"
+      }
+    ]
+  },
+  {
+    "name": "Wet Mop",
+    "slug": "wet-mop",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/wet-mop-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Size",
+        "value": "6×16″"
+      },
+      {
+        "key": "Material",
+        "value": "Microfiber"
+      },
+      {
+        "key": "Pole Material",
+        "value": "Italian Pipe"
+      },
+      {
+        "key": "Color",
+        "value": "Multicolour"
+      },
+      {
+        "key": "Is It Replaceable Head",
+        "value": "Replaceable Head"
+      }
+    ]
+  },
+  {
+    "name": "Liquid Cleaning Chemical",
+    "slug": "liquid-cleaning-chemical",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/liquid-cleaning-chemical-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Litre"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      }
+    ]
+  },
+  {
+    "name": "Premium Germicidal Soap Gel",
+    "slug": "premium-germicidal-soap-gel",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/premium-gel-soap-germicidal-aqsa-7402-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Litre"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      }
+    ]
+  },
+  {
+    "name": "Cleaning Scourer",
+    "slug": "cleaning-scourer",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cleaning-scourer-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "100 Range Start From"
+      },
+      {
+        "key": "Quantity Per Pack",
+        "value": "12"
+      },
+      {
+        "key": "Size",
+        "value": "6 Inch"
+      },
+      {
+        "key": "Usage",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      }
+    ]
+  },
+  {
+    "name": "Kitchen Wipe",
+    "slug": "kitchen-wipe",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/kitchen-wipe-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "Polyester"
+      },
+      {
+        "key": "Shape",
+        "value": "Rectangular"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Packaging Per Pack",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "name": "Industrial Wipe",
+    "slug": "industrial-wipe",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/industrial-wipe-500x500-1-e1717909430599.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "100 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "Paper"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Roll"
+      },
+      {
+        "key": "Usage",
+        "value": "Home, Hotel, Office"
+      }
+    ]
+  },
+  {
+    "name": "Green Phenyl",
+    "slug": "green-phenyl",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/green-phenyl-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Grade Standard",
+        "value": "Analytical Grade"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      }
+    ]
+  },
+  {
+    "name": "Premium Dish Wash",
+    "slug": "premium-dish-wash",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cleaning-chemicals-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Liter"
+      }
+    ]
+  },
+  {
+    "name": "Carpet Cleaning Chemical",
+    "slug": "carpet-cleaning-chemical",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/carpet-cleaning-chemical-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "100 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Carpet Cleaning"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Liter"
+      }
+    ]
+  },
+  {
+    "name": "Granite and Marble Cleaner",
+    "slug": "granite-and-marble-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/granite-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial and Residential"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Liter"
+      }
+    ]
+  },
+  {
+    "name": "Kitchen Cleaner",
+    "slug": "kitchen-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/kitchen-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle/Can"
+      },
+      {
+        "key": "Physical State",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "650ml"
+      }
+    ]
+  },
+  {
+    "name": "Tile Cleaner",
+    "slug": "tile-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/tile-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Ltr"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Tile Cleaning"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Litre"
+      }
+    ]
+  },
+  {
+    "name": "Hand Cleaner",
+    "slug": "hand-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/hand-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Hand Cleaner"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "250 ml"
+      },
+      {
+        "key": "Physical State",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packing Type",
+        "value": "Bottle"
+      }
+    ]
+  },
+  {
+    "name": "Cleaning Liquid",
+    "slug": "cleaning-liquid",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/cleaning-liquid-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Litre"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      }
+    ]
+  },
+  {
+    "name": "Air Freshener Dispenser",
+    "slug": "air-freshener-dispenser",
+    "category": "Air Purifiers & Fresheners",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/air-freshener-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Brand",
+        "value": "AQSA"
+      },
+      {
+        "key": "Machine Type",
+        "value": "Automatic"
+      },
+      {
+        "key": "Color",
+        "value": "Grey"
+      },
+      {
+        "key": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "Display Type",
+        "value": "Digital"
+      },
+      {
+        "key": "Item Code",
+        "value": "AQSA-7211_LCD"
+      }
+    ]
+  },
+  {
+    "name": "SS Hand Dryer",
+    "slug": "ss-hand-dryer",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/ss-hand-dryer-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "key": "Item Code",
+        "value": "7846"
+      }
+    ]
+  },
+  {
+    "name": "Commercial Hand Dryer",
+    "slug": "commercial-hand-dryer",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/commercial-hand-dryer-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Voltage",
+        "value": "220V~50Hz"
+      },
+      {
+        "key": "Current",
+        "value": "7.7A"
+      },
+      {
+        "key": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "key": "Rated Power",
+        "value": "1700W"
+      }
+    ]
+  },
+  {
+    "name": "Jet Hand Dryer",
+    "slug": "jet-hand-dryer",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/jet-hand-dryer-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Voltage",
+        "value": "220 V"
+      },
+      {
+        "key": "Drying Time",
+        "value": "57 sec."
+      },
+      {
+        "key": "Wind Speed",
+        "value": "95m/s"
+      },
+      {
+        "key": "Water Proof Grade",
+        "value": "IPX4"
+      }
+    ]
+  },
+  {
+    "name": "High Speed Hand Dryer",
+    "slug": "high-speed-hand-dryer",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/high-speed-hand-dryer-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Dimension",
+        "value": "205x135x290 mm"
+      },
+      {
+        "key": "Drying Time",
+        "value": "20Sec"
+      },
+      {
+        "key": "Velocity",
+        "value": "15 M/S"
+      },
+      {
+        "key": "Product Range",
+        "value": "Magnum SS"
+      },
+      {
+        "key": "Wattage",
+        "value": "1000 Watts"
+      }
+    ]
+  },
+  {
+    "name": "Air Hand Dryers",
+    "slug": "air-hand-dryers",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/air-hand-dryers-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Voltage",
+        "value": "220V~50Hz"
+      },
+      {
+        "key": "Drying Time",
+        "value": "20-30 sec."
+      },
+      {
+        "key": "Wind Speed",
+        "value": "12m/s"
+      },
+      {
+        "key": "Current",
+        "value": "7.7A"
+      },
+      {
+        "key": "Rated Power",
+        "value": "1800W-2000W"
+      }
+    ]
+  },
+  {
+    "name": "Bathroom Hand Dryer",
+    "slug": "bathroom-hand-dryer",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/bathroom-hand-dryer-500x500-1-e1717909474140.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Voltage",
+        "value": "220V~50Hz"
+      },
+      {
+        "key": "Drying Time",
+        "value": "20 – 30 Sec"
+      },
+      {
+        "key": "Wind Speed",
+        "value": "15m / Sec"
+      },
+      {
+        "key": "Current",
+        "value": "16A"
+      },
+      {
+        "key": "Power Capacity",
+        "value": "1300W"
+      },
+      {
+        "key": "Speed",
+        "value": "7500 RPM"
+      },
+      {
+        "key": "Time Protect",
+        "value": "60s"
+      },
+      {
+        "key": "Product Size",
+        "value": "10″x 60″x 80″"
+      }
+    ]
+  },
+  {
+    "name": "Electric Hand Dryer",
+    "slug": "electric-hand-dryer",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/electric-hand-dryer-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Voltage",
+        "value": "220 V"
+      },
+      {
+        "key": "Power",
+        "value": "2500 W"
+      },
+      {
+        "key": "Frequency",
+        "value": "50 Hz"
+      },
+      {
+        "key": "Drying Time",
+        "value": "10 – 15 sec."
+      },
+      {
+        "key": "Wind Speed",
+        "value": "30m/s"
+      },
+      {
+        "key": "Current",
+        "value": "16A"
+      },
+      {
+        "key": "Rpm",
+        "value": "12000"
+      },
+      {
+        "key": "Time Protect",
+        "value": "60s"
+      }
+    ]
+  },
+  {
+    "name": "Automatic Jet Hand Dryer",
+    "slug": "automatic-jet-hand-dryer",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/automatic-jet-hand-dryer-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Voltage",
+        "value": "220 V"
+      },
+      {
+        "key": "Power",
+        "value": "1900 W"
+      },
+      {
+        "key": "Frequency",
+        "value": "50 Hz"
+      },
+      {
+        "key": "Drying Time",
+        "value": "57 sec."
+      },
+      {
+        "key": "Wind Speed",
+        "value": "95m/s"
+      },
+      {
+        "key": "Current",
+        "value": "10A"
+      }
+    ]
+  },
+  {
+    "name": "Glass Wipe",
+    "slug": "glass-wipe",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/glass-wipe-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "100 Range Start From"
+      },
+      {
+        "key": "Size",
+        "value": "14 inch"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Glass Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Nylon"
+      },
+      {
+        "key": "Weight",
+        "value": "Approx 90 gm"
+      }
+    ]
+  },
+  {
+    "name": "ABS Hand Dryers",
+    "slug": "abs-hand-dryers",
+    "category": "Hand Dryers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/hand-dryers-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Brand",
+        "value": "AQSA-7835"
+      },
+      {
+        "key": "Voltage",
+        "value": "220 V"
+      },
+      {
+        "key": "Drying Time",
+        "value": "57 sec."
+      },
+      {
+        "key": "Wind Speed",
+        "value": "95m/s"
+      },
+      {
+        "key": "Current",
+        "value": "10A"
+      },
+      {
+        "key": "Automation Grade",
+        "value": "Semi-automatic"
+      },
+      {
+        "key": "Frequency",
+        "value": "50Hz"
+      },
+      {
+        "key": "Body Material",
+        "value": "PVC and SS"
+      },
+      {
+        "key": "Power Capacity",
+        "value": "1900W"
+      },
+      {
+        "key": "Item Code",
+        "value": "7835"
+      }
+    ]
+  },
+  {
+    "name": "Sweeping Machine",
+    "slug": "sweeping-machine",
+    "category": "Cleaning Machines",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/sweeping-machine-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Hopper Capacity",
+        "value": "45 liters"
+      },
+      {
+        "key": "Cleaning Width",
+        "value": "700 mm"
+      },
+      {
+        "key": "Cleaning Capacity",
+        "value": "2450 m2 per hour"
+      },
+      {
+        "key": "Net Weight",
+        "value": "18 kg"
+      }
+    ]
+  },
+  {
+    "name": "LED Aerosol Dispenser",
+    "slug": "led-aerosol-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/led-aerosol-dispenser-500x500-1-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      },
+      {
+        "key": "Color",
+        "value": "Grey, White"
+      },
+      {
+        "key": "Products Size",
+        "value": "83x92x276mm"
+      },
+      {
+        "key": "Product Weight",
+        "value": "0.367 Kg"
+      }
+    ]
+  },
+  {
+    "name": "ABS Paper Towel Dispenser",
+    "slug": "abs-paper-towel-dispenser",
+    "category": "Hand Sanitizers",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/paper-towel-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      },
+      {
+        "key": "Size",
+        "value": "280 x 115 x 385 mm"
+      }
+    ]
+  },
+  {
+    "name": "Liquid Dispenser",
+    "slug": "liquid-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/liquid-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Capacity",
+        "value": "1000 ml"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Material",
+        "value": "ABS Body"
+      },
+      {
+        "key": "Dimension",
+        "value": "24x10x9 mm"
+      }
+    ]
+  },
+  {
+    "name": "Stainless Steel Liquid Soap Dispenser",
+    "slug": "stainless-steel-liquid-soap-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/stainless-steel-liquid-soap-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial, Commercial and Residential"
+      },
+      {
+        "key": "Mounting Type",
+        "value": "Wall Mounted"
+      },
+      {
+        "key": "Material",
+        "value": "ABS, SS, Plastic"
+      }
+    ]
+  },
+  {
+    "name": "Automatic Soap Dispenser",
+    "slug": "automatic-soap-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/automatic-soap-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "Type",
+        "value": "Automatic"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Mounted Type",
+        "value": "Wall Mounted"
+      }
+    ]
+  },
+  {
+    "name": "Plastic Soap Dispenser",
+    "slug": "plastic-soap-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/plastic-soap-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Drop",
+        "value": "1~1.5 ml"
+      },
+      {
+        "key": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "Volume",
+        "value": "360 ml"
+      },
+      {
+        "key": "Dimensions",
+        "value": "(H) 190 x (W) 80 x (D) 82 mm"
+      },
+      {
+        "key": "Body Color",
+        "value": "White"
+      }
+    ]
+  },
+  {
+    "name": "Urinal Screens",
+    "slug": "urinal-screens",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/urinal-screens-500x500-3.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Packaging Details",
+        "value": "50piece"
+      }
+    ]
+  },
+  {
+    "name": "Air Fresheners",
+    "slug": "air-fresheners",
+    "category": "Air Purifiers & Fresheners",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/air-fresheners-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Usage",
+        "value": "Removing Bad Smell"
+      },
+      {
+        "key": "Application",
+        "value": "Industrial, Commercial And Residential"
+      }
+    ]
+  },
+  {
+    "name": "Air Freshener Dispenser",
+    "slug": "air-freshener-dispenser-3",
+    "category": "Air Purifiers & Fresheners",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/air-freshener-dispenser-500x500-1-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Machine Type",
+        "value": "Automatic"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic"
+      }
+    ]
+  },
+  {
+    "name": "Lemon Grass Aromatic Oil",
+    "slug": "lemon-grass-aromatic-oil",
+    "category": "Air Purifiers & Fresheners",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/premium-lemongrass-oil-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Pack Size",
+        "value": "500 ml, 1000ml"
+      },
+      {
+        "key": "Pack Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Brand",
+        "value": "Air Jazz"
+      },
+      {
+        "key": "Usage",
+        "value": "Fragnance"
+      }
+    ]
+  },
+  {
+    "name": "Air Freshener Dispenser",
+    "slug": "air-freshener-dispenser-2",
+    "category": "Air Purifiers & Fresheners",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/air-freshener-cum-neutralizer-aqsa-7214-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Home, Hotel, Office, Hospital"
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Machine Type",
+        "value": "Automatic"
+      },
+      {
+        "key": "Color",
+        "value": "White & Green"
+      },
+      {
+        "key": "Body Material",
+        "value": "ABS"
+      }
+    ]
+  },
+  {
+    "name": "Air Freshener Refill",
+    "slug": "air-freshener-refill",
+    "category": "Air Purifiers & Fresheners",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/air-freshener-refill-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Brand",
+        "value": "AGM"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Home, Hotel, Office"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "300ml"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle"
+      }
+    ]
+  },
+  {
+    "name": "Bathroom Cleaner",
+    "slug": "bathroom-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/bathroom-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Litre"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Bathroom Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Litre"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      }
+    ]
+  },
+  {
+    "name": "Liquid Cleaner",
+    "slug": "liquid-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/liquid-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "10 Litre"
+      },
+      {
+        "key": "Physical State",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      }
+    ]
+  },
+  {
+    "name": "Liquid Toilet Cleaner",
+    "slug": "liquid-toilet-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/liquid-toilet-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Toilet Cleaning"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "500 ml"
+      }
+    ]
+  },
+  {
+    "name": "Glass Cleaners",
+    "slug": "glass-cleaners",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/glass-cleaners-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 500 ml"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Glass Cleaning"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "650 ml"
+      }
+    ]
+  },
+  {
+    "name": "Premium Shower Gel",
+    "slug": "premium-shower-gel",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/premium-gel-soap-germicidal-aqsa-7402-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantit",
+        "value": "10 Ltr"
+      },
+      {
+        "key": "Packaging Siz",
+        "value": "5 Litre"
+      },
+      {
+        "key": "For",
+        "value": "Liquid"
+      },
+      {
+        "key": "Usag",
+        "value": "Parlour, Personal"
+      },
+      {
+        "key": "Packaging Typ",
+        "value": "Can"
+      }
+    ]
+  },
+  {
+    "name": "Industrial Cleaning Chemical",
+    "slug": "industrial-cleaning-chemical",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/industrial-cleaning-chemical-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Ltr"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Physical State",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "10 Litre"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      }
+    ]
+  },
+  {
+    "name": "Premium Floor Cleaner",
+    "slug": "premium-floor-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/household-cleaning-chemical-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Ltr"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Size",
+        "value": "5 Litre"
+      }
+    ]
+  },
+  {
+    "name": "Premium Toilet Cleaner",
+    "slug": "premium-toilet-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/premium-toilet-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Brand",
+        "value": "AQSA"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Litre"
+      }
+    ]
+  },
+  {
+    "name": "Cleaning Cloth",
+    "slug": "cleaning-cloth",
+    "category": "Cleaning Mop",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2017/09/cleaning-cloth-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Weight",
+        "value": "220-300GSM"
+      },
+      {
+        "key": "Size",
+        "value": "30x30cm, 40x40cm, 50x100cm, 40x60cm, 30x50cm."
+      },
+      {
+        "key": "Material",
+        "value": "80% polyester 20% polyamide"
+      },
+      {
+        "key": "Packing Material",
+        "value": "Inner Polybag Outer 7-layer craft carton"
+      },
+      {
+        "key": "Packing",
+        "value": "1pcs/bag, 200pcs/carton or as you order"
+      },
+      {
+        "key": "Packing",
+        "value": "1pcs/bag, 200pcs/carton or as you order"
+      }
+    ]
+  },
+  {
+    "name": "Premium Multi Purpose Cleaner",
+    "slug": "premium-multi-purpose-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/premium-multi-purpose-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Size",
+        "value": "5 Litre"
+      },
+      {
+        "key": "Brand",
+        "value": "AQSA – 7408"
+      }
+    ]
+  },
+  {
+    "name": "Kitchen Wiper",
+    "slug": "kitchen-wiper",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/kitchen-wiper-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "Red"
+      },
+      {
+        "key": "Handle Material",
+        "value": "Plastic"
+      },
+      {
+        "key": "Blade Size",
+        "value": "12 inch"
+      },
+      {
+        "key": "Blade Material",
+        "value": "Sponge"
+      }
+    ]
+  },
+  {
+    "name": "Utensil Cleaner",
+    "slug": "utensil-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/utensil-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Quantity Per Pack",
+        "value": "1"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Utensil Cleaning"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "500 ml"
+      }
+    ]
+  },
+  {
+    "name": "Perfumed Floor Cleaner",
+    "slug": "perfumed-floor-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/perfumed-floor-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Size",
+        "value": "1 Litre"
+      },
+      {
+        "key": "Brand",
+        "value": "all"
+      }
+    ]
+  },
+  {
+    "name": "Floor Cleaner",
+    "slug": "floor-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/floor-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Fragrance",
+        "value": "Rose, Mogra, Lime, Sandel, Lavender etc"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Floor Cleaning"
+      },
+      {
+        "key": "Material",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Size",
+        "value": "5 Litre"
+      }
+    ]
+  },
+  {
+    "name": "Liquid Floor Cleaner",
+    "slug": "liquid-floor-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/liquid-floor-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Fragrance",
+        "value": "Rose, Mogra, Lime, Sandal, Lavender etc"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Size",
+        "value": "5 Litre"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Brand",
+        "value": "all"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Cleaners",
+    "slug": "toilet-cleaners",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-cleaners-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "700 ml"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Pack Type",
+        "value": "Plastic Bottle"
+      },
+      {
+        "key": "PH Range",
+        "value": "1.2"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Toilet Cleaner"
+      }
+    ]
+  },
+  {
+    "name": "Premium Foam Germicidal Soap",
+    "slug": "premium-foam-germicidal-soap",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/premium-foam-germicidal-soap-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Packaging Type",
+        "value": "Can"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "5 Litre"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Hand Wash"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Brand",
+        "value": "AQSA"
+      },
+      {
+        "key": "Key Ingredient",
+        "value": "Green Apple"
+      },
+      {
+        "key": "Type Of Ingredient",
+        "value": "Moisturizer"
+      },
+      {
+        "key": "Type Of Packaging",
+        "value": "5 litres Can"
+      }
+    ]
+  },
+  {
+    "name": "Hand Wiping Tissue",
+    "slug": "hand-wiping-tissue",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/hand-wiping-tissue-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Material",
+        "value": "Paper"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Packet"
+      }
+    ]
+  },
+  {
+    "name": "Premium Gel Soap Green Apple",
+    "slug": "premium-gel-soap-green-apple",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/premium-gel-soap-green-apple-500x500-1-e1717909414694.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Item Code",
+        "value": "7402"
+      },
+      {
+        "key": "Delivery Time",
+        "value": "2 working days"
+      },
+      {
+        "key": "Packaging Details",
+        "value": "Plastic Can"
+      }
+    ]
+  },
+  {
+    "name": "Liquid Soap Dual Dispenser",
+    "slug": "liquid-soap-dual-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/liquid-soap-dual-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Capacity",
+        "value": "1000 ml"
+      },
+      {
+        "key": "Material",
+        "value": "ABS Body"
+      },
+      {
+        "key": "Dimension",
+        "value": "24x10x9 mm"
+      }
+    ]
+  },
+  {
+    "name": "ABS Paper Towel Dispensers",
+    "slug": "abs-paper-towel-dispensers",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/abs-paper-towel-dispenser-aqsa-7243-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Paper Type",
+        "value": "Towel Paper"
+      },
+      {
+        "key": "Material",
+        "value": "Steel, Plastic, ABS"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Seat Cover Dispenser",
+    "slug": "toilet-seat-cover-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-seat-cover-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Mounting Type",
+        "value": "Wall Mounted"
+      },
+      {
+        "key": "Size",
+        "value": "H33.2 X W44.0 X D7.7cm"
+      },
+      {
+        "key": "Usages",
+        "value": "Industrial And Commercial"
+      }
+    ]
+  },
+  {
+    "name": "Paper Roll Towel Dispenser",
+    "slug": "paper-roll-towel-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/paper-roll-towel-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Mounting Type",
+        "value": "Wall Mounted"
+      },
+      {
+        "key": "Color",
+        "value": "Smoke"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      },
+      {
+        "key": "Size",
+        "value": "31.75cm x 40.57cm x 25.70 cm"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Tissue Dispenser",
+    "slug": "toilet-tissue-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-tissue-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "Plastic, ABS"
+      },
+      {
+        "key": "Mounting Type",
+        "value": "Wall Mounted"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Commercial and Industrial"
+      }
+    ]
+  },
+  {
+    "name": "ABS Soap Dispenser",
+    "slug": "abs-soap-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/soap-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Type",
+        "value": "Automatic, Manual"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "Mounted Type",
+        "value": "Wall Mounted"
+      }
+    ]
+  },
+  {
+    "name": "Stainless Steel Paper Towel Dispenser",
+    "slug": "stainless-steel-paper-towel-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/stainless-steel-paper-towel-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "Steel"
+      },
+      {
+        "key": "Color",
+        "value": "Silver"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      },
+      {
+        "key": "Size",
+        "value": "L293xW136xH298mm"
+      }
+    ]
+  },
+  {
+    "name": "SS Paper Towel Dispenser",
+    "slug": "ss-paper-towel-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/towel-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Material",
+        "value": "Stainless Steel"
+      },
+      {
+        "key": "Mounting Type",
+        "value": "Wall Mounted"
+      },
+      {
+        "key": "Color",
+        "value": "Silver"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      }
+    ]
+  },
+  {
+    "name": "Aerosol Dispenser",
+    "slug": "aerosol-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/aerosol-dispenser-500x500-1-e1717909452922.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Products Size",
+        "value": "83x92x276mm"
+      },
+      {
+        "key": "Product Weight",
+        "value": "0.367 Kg"
+      },
+      {
+        "key": "Mounted Type",
+        "value": "Wall Mounted"
+      }
+    ]
+  },
+  {
+    "name": "Toilet Paper Dispenser",
+    "slug": "toilet-paper-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/toilet-paper-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Material",
+        "value": "ABS, SS"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Dimensions",
+        "value": "W 120 x L 264 x H 280 MM"
+      },
+      {
+        "key": "Mounted Type",
+        "value": "Wall Mounted"
+      }
+    ]
+  },
+  {
+    "name": "Paper Dispenser",
+    "slug": "paper-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/paper-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Paper Type",
+        "value": "C Fold"
+      },
+      {
+        "key": "Material",
+        "value": "ABS Body"
+      },
+      {
+        "key": "Capacity",
+        "value": "450-500 C Fold Napkin"
+      },
+      {
+        "key": "Dimensions",
+        "value": "240 x 370 x 95 mm"
+      }
+    ]
+  },
+  {
+    "name": "Napkin Dispenser",
+    "slug": "napkin-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/napkin-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Material",
+        "value": "ABS, SS"
+      },
+      {
+        "key": "Mounting Type",
+        "value": "Wall Mounted"
+      },
+      {
+        "key": "Operation Mode",
+        "value": "Manual"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      }
+    ]
+  },
+  {
+    "name": "Stainless Steel Soap Dispenser",
+    "slug": "stainless-steel-soap-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/stainless-steel-liquid-soap-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Unit"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Brand",
+        "value": "Agm Enterprises"
+      },
+      {
+        "key": "Material",
+        "value": "Stainless Steel"
+      }
+    ]
+  },
+  {
+    "name": "Metal Soap Dispenser",
+    "slug": "metal-soap-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/metal-soap-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Industrial and Commercial"
+      },
+      {
+        "key": "Brand",
+        "value": "Agm Enterprises"
+      },
+      {
+        "key": "Material",
+        "value": "SS"
+      },
+      {
+        "key": "Operation",
+        "value": "Manual"
+      }
+    ]
+  },
+  {
+    "name": "Tissue Paper Dispenser",
+    "slug": "tissue-paper-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/tissue-paper-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Paper Type",
+        "value": "C Fold"
+      },
+      {
+        "key": "Material",
+        "value": "ABS Body"
+      },
+      {
+        "key": "Capacity",
+        "value": "450-500 Tissue"
+      },
+      {
+        "key": "Dimension",
+        "value": "240 x 370 x 95 mm"
+      }
+    ]
+  },
+  {
+    "name": "Dual Soap Dispenser",
+    "slug": "dual-soap-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/dual-soap-dispenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Unit"
+      },
+      {
+        "key": "Capacity",
+        "value": "500 ml"
+      },
+      {
+        "key": "Dimensions",
+        "value": "75(L)x114(W)x197(H)mm"
+      },
+      {
+        "key": "Material",
+        "value": "ABS"
+      },
+      {
+        "key": "Mounted Type",
+        "value": "Wall Mounted"
+      }
+    ]
+  },
+  {
+    "name": "Surface Cleaner",
+    "slug": "surface-cleaner",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/surface-cleaner-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Ltr"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Packaging Size",
+        "value": "40 FL.0Z. (1183mL)"
+      }
+    ]
+  },
+  {
+    "name": "White Phenyl",
+    "slug": "white-phenyl",
+    "category": "Cleaning Liquids & Wipes",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/white-phenyl-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "10 Range Start From"
+      },
+      {
+        "key": "Color",
+        "value": "White"
+      },
+      {
+        "key": "Form",
+        "value": "Liquid"
+      },
+      {
+        "key": "Usage/Application",
+        "value": "Cleaning"
+      },
+      {
+        "key": "Packaging Type",
+        "value": "Bottle"
+      }
+    ]
+  },
+  {
+    "name": "Jumbo Roll Tissue Dispenser",
+    "slug": "jumbo-roll-tissue-dispenser",
+    "category": "Sensor Dispenser",
+    "image": "https://agmenterprises.co.in/wp-content/uploads/2020/05/jumbo-roll-tissue-despenser-500x500-1.jpg",
+    "description": null,
+    "details": [
+      {
+        "key": "Minimum Order Quantity",
+        "value": "1 Range Start From"
+      },
+      {
+        "key": "Brand",
+        "value": "Agm Enterprises"
+      },
+      {
+        "key": "Color",
+        "value": "Smoke"
+      },
+      {
+        "key": "Size",
+        "value": "31.75cm x 40.57cm x 25.70 cm"
+      },
+      {
+        "key": "Usage",
+        "value": "Industrial, Commercial"
+      }
+    ]
+  }
+]

@@ -35,10 +35,10 @@ const client = createClient({
 const newSiteSettings = {
   title: "AS Enterprises",
   description:
-    "Your Trusted Partner in Cleaning & Hygiene Solutions. Authorized AQSA dealer providing genuine, premium quality cleaning products across India.",
+    "Your Trusted Partner in Cleaning & Hygiene Solutions. Providing genuine, premium quality cleaning products across India.",
   heroTitle: "Your Trusted Partner in Cleaning & Hygiene Solutions",
   heroSubtitle:
-    "Authorized AQSA Dealer | Premium Quality Products | Pan-India Delivery",
+    "Premium Quality Products | Trusted Brands | Pan-India Delivery",
   aboutTitle: "About AS Enterprises",
   aboutContent: [
     {
@@ -49,7 +49,7 @@ const newSiteSettings = {
         {
           _type: "span",
           _key: "about1span",
-          text: "AS Enterprises is an authorized dealer of AQSA products, bringing you premium cleaning and hygiene solutions backed by industry expertise. With direct access to genuine AQSA products and an extensive network of suppliers, we ensure you receive only certified, quality-tested products at competitive prices.",
+          text: "AS Enterprises is your trusted cleaning solutions partner, bringing you premium cleaning and hygiene products backed by industry expertise. With an extensive network of quality suppliers, we ensure you receive only certified, quality-tested products at competitive prices.",
         },
       ],
     },
@@ -61,7 +61,7 @@ const newSiteSettings = {
         {
           _type: "span",
           _key: "about2span",
-          text: "Our commitment is simple: deliver genuine products, maintain transparent pricing, and provide reliable service. Whether you're managing a corporate office, hotel, hospital, or retail space, we have the right cleaning solutions for your needs. Experience the difference of working with an authorized dealer who prioritizes your satisfaction.",
+          text: "Our commitment is simple: deliver genuine products, maintain transparent pricing, and provide reliable service. Whether you're managing a corporate office, hotel, hospital, or retail space, we have the right cleaning solutions for your needs. Experience the difference of working with a trusted partner who prioritizes your satisfaction.",
         },
       ],
     },
@@ -69,10 +69,10 @@ const newSiteSettings = {
   whyChooseUsTitle: "Why Choose Us",
   whyChooseUsPoints: [
     {
-      _key: "aqsa-dealer",
-      title: "Authorized AQSA Dealer",
+      _key: "premium-quality",
+      title: "Premium Quality Products",
       description:
-        "Direct access to genuine AQSA products with manufacturer warranty and quality assurance.",
+        "Genuine products sourced from trusted brands with manufacturer warranty and quality assurance.",
       icon: "Award",
     },
     {
@@ -167,7 +167,7 @@ const updatedArticles = [
           {
             _type: "span",
             _key: "hd4span",
-            text: "At AS Enterprises, we offer genuine AQSA hand dryers that meet all these requirements, backed by manufacturer warranty.",
+            text: "At AS Enterprises, we offer premium hand dryers from trusted brands that meet all these requirements, backed by manufacturer warranty.",
           },
         ],
       },
@@ -283,7 +283,7 @@ const updatedArticles = [
           {
             _type: "span",
             _key: "cp4span",
-            text: "Working with an authorized AQSA dealer gives you access to quality-certified products with proper warranty support.",
+            text: "Working with a trusted supplier gives you access to quality-certified products with proper warranty support.",
           },
         ],
       },
@@ -341,7 +341,7 @@ const updatedArticles = [
           {
             _type: "span",
             _key: "fc4span",
-            text: "Pro tips: Always test cleaners in an inconspicuous area first. Use the recommended dilution ratios. Invest in quality mops designed for your floor type. Our range of genuine AQSA floor cleaners covers all surface types with specialized formulations.",
+            text: "Pro tips: Always test cleaners in an inconspicuous area first. Use the recommended dilution ratios. Invest in quality mops designed for your floor type. Our range of premium floor cleaners covers all surface types with specialized formulations.",
           },
         ],
       },
@@ -601,11 +601,11 @@ async function updateContent() {
 
     console.log("\n✅ Content update completed successfully!");
     console.log("\nChanges made:");
-    console.log("  ✓ Site settings updated with new AQSA dealer branding");
+    console.log("  ✓ Site settings updated with trusted partner branding");
     console.log(
       "  ✓ Hero title: 'Your Trusted Partner in Cleaning & Hygiene Solutions'"
     );
-    console.log("  ✓ 6 'Why Choose Us' points (AQSA-focused)");
+    console.log("  ✓ 6 'Why Choose Us' points");
     console.log("  ✓ Updated about content");
     console.log("  ✓ All 6 articles updated with fresh content");
     console.log("\nNext steps:");

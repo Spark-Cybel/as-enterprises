@@ -6,8 +6,8 @@ import { urlFor } from "@/sanity/client";
 
 const features = [
   { icon: CheckCircle, text: "100% Genuine Products" },
-  { icon: Shield, text: "Authorized AQSA Dealer" },
-  { icon: Clock, text: "Competitive Dealer Pricing" },
+  { icon: Shield, text: "Premium Quality Guaranteed" },
+  { icon: Clock, text: "Competitive Pricing" },
 ];
 
 export const HeroSection = () => {
@@ -77,9 +77,8 @@ export const HeroSection = () => {
       {/* Stats Bar */}
       <div className="absolute bottom-0 right-0 left-0 md:left-auto md:right-8 lg:right-16 md:bottom-8">
         <div className="bg-secondary/95 backdrop-blur-sm rounded-t-lg md:rounded-lg p-6 md:p-8">
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-6 md:gap-8 text-center">
+          <div className="grid grid-cols-3 gap-6 md:gap-8 text-center">
             {[
-              { value: "AQSA", label: "Authorized Dealer" },
               { value: "2000+", label: "Products" },
               { value: "100%", label: "Genuine Quality" },
               { value: "Pan-India", label: "Delivery" },

@@ -33,7 +33,7 @@ const AboutUs = () => {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
               <p className="text-muted-foreground leading-relaxed mb-6">
-                AS Enterprises was founded in 2025 with a clear mission: to provide businesses across India with genuine, high-quality cleaning and hygiene products at competitive prices. As an authorized dealer of AQSA products, we bring you direct access to one of the industry's most trusted brands, backed by our commitment to authenticity and customer satisfaction.
+                AS Enterprises was founded in 2025 with a clear mission: to provide businesses across India with genuine, high-quality cleaning and hygiene products at competitive prices. We partner with trusted brands to bring you premium products, backed by our commitment to authenticity and customer satisfaction.
               </p>
               
               <p className="text-muted-foreground leading-relaxed mb-6">
@@ -57,8 +57,8 @@ const AboutUs = () => {
                 className="rounded-lg shadow-lg"
               />
               <div className="absolute -bottom-6 -left-6 bg-primary text-primary-foreground p-6 rounded-lg shadow-lg hidden md:block">
-                <div className="text-4xl font-bold font-heading">AQSA</div>
-                <div className="text-sm">Authorized Dealer</div>
+                <div className="text-4xl font-bold font-heading">2000+</div>
+                <div className="text-sm">Quality Products</div>
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@ const AboutUs = () => {
           
           <div className="max-w-4xl mx-auto">
             <p className="text-muted-foreground leading-relaxed mb-6 text-center">
-              As an authorized AQSA dealer, we offer a comprehensive range of cleaning solutions including laundry care, room care, kitchen care, housekeeping supplies, industrial care products, toilet cleaners, surface cleaners, glass and marble cleaners, air fresheners, and deodorizers—all genuine, all quality-certified.
+              We offer a comprehensive range of cleaning solutions including laundry care, room care, kitchen care, housekeeping supplies, industrial care products, toilet cleaners, surface cleaners, glass and marble cleaners, air fresheners, and deodorizers—all genuine, all quality-certified.
             </p>
             
             <p className="text-muted-foreground leading-relaxed text-center">

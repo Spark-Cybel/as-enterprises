@@ -58,7 +58,7 @@ export const Footer = () => {
                 />
               </Link>
               <p className="text-secondary-foreground/80 text-sm leading-relaxed">
-                Your Trusted Partner in Cleaning & Hygiene Solutions. Authorized AQSA dealer providing genuine, premium quality cleaning products and housekeeping materials across India.
+                Your Trusted Partner in Cleaning & Hygiene Solutions. Providing genuine, premium quality cleaning products and housekeeping materials across India.
               </p>
             </div>
 

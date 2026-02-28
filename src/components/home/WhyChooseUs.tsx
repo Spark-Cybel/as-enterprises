@@ -18,8 +18,8 @@ const iconMap: Record<string, LucideIcon> = {
 const defaultReasons = [
   {
     icon: Award,
-    title: "Authorized AQSA Dealer",
-    description: "Direct access to genuine AQSA products with manufacturer warranty and quality assurance."
+    title: "Premium Quality Products",
+    description: "Genuine products sourced from trusted brands with manufacturer warranty and quality assurance."
   },
   {
     icon: Truck,
@@ -69,7 +69,7 @@ export const WhyChooseUs = () => {
         <div className="text-center mb-12">
           <h2 className="section-heading text-foreground">{title}</h2>
           <p className="text-muted-foreground mt-4 max-w-2xl mx-auto">
-            Partner with an authorized dealer for genuine products, competitive pricing, and reliable service.
+            Partner with a trusted supplier for genuine products, competitive pricing, and reliable service.
           </p>
         </div>
         

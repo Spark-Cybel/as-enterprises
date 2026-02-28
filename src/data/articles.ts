@@ -38,7 +38,7 @@ export const articles: Article[] = [
         <li>HEPA filtration - ensures clean air output</li>
       </ul>
       
-      <p>At AS Enterprises, we offer genuine AQSA hand dryers that meet all these requirements, backed by manufacturer warranty.</p>
+      <p>At AS Enterprises, we offer premium hand dryers from trusted brands that meet all these requirements, backed by manufacturer warranty.</p>
     `,
     category: "Hand Dryers",
     categorySlug: "hand-dryers",
@@ -101,7 +101,7 @@ export const articles: Article[] = [
         <li>Industrial-grade cleaning equipment</li>
       </ul>
       
-      <p>Working with an authorized AQSA dealer gives you access to quality-certified products with proper warranty support.</p>
+      <p>Working with a trusted supplier gives you access to quality-certified products with proper warranty support.</p>
     `,
     category: "Air Purifiers & Fresheners",
     categorySlug: "air-purifiers-fresheners",
@@ -133,7 +133,7 @@ export const articles: Article[] = [
         <li>Invest in quality mops designed for your floor type</li>
       </ul>
       
-      <p>Our range of genuine AQSA floor cleaners covers all surface types with specialized formulations.</p>
+      <p>Our range of premium floor cleaners covers all surface types with specialized formulations.</p>
     `,
     category: "Floor Cleaners",
     categorySlug: "floor-cleaners",

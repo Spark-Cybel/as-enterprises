@@ -13,11 +13,11 @@ export const AboutSection = () => {
   const defaultContent = (
     <>
       <p className="text-muted-foreground leading-relaxed mb-6">
-        AS Enterprises is an authorized dealer of AQSA products, bringing you premium cleaning and hygiene solutions backed by industry expertise. With direct access to genuine AQSA products and an extensive network of suppliers, we ensure you receive only certified, quality-tested products at competitive prices.
+        AS Enterprises is your trusted cleaning solutions partner, bringing you premium cleaning and hygiene products backed by industry expertise. With an extensive network of quality suppliers, we ensure you receive only certified, quality-tested products at competitive prices.
       </p>
       
       <p className="text-muted-foreground leading-relaxed mb-8">
-        Our commitment is simple: deliver genuine products, maintain transparent pricing, and provide reliable service. Whether you're managing a corporate office, hotel, hospital, or retail space, we have the right cleaning solutions for your needs. Experience the difference of working with an authorized dealer who prioritizes your satisfaction.
+        Our commitment is simple: deliver genuine products, maintain transparent pricing, and provide reliable service. Whether you're managing a corporate office, hotel, hospital, or retail space, we have the right cleaning solutions for your needs. Experience the difference of working with a trusted partner who prioritizes your satisfaction.
       </p>
     </>
   );
