@@ -29,12 +29,40 @@ export const product = defineType({
       validation: (Rule) => Rule.required(),
     }),
     defineField({
+      name: "hide",
+      title: "Hide from website",
+      type: "boolean",
+      description: "Hide this product from public listings. It will still be accessible via direct URL and invoice dropdown.",
+      initialValue: false,
+    }),
+    defineField({
       name: "image",
       title: "Image",
       type: "image",
       options: {
         hotspot: true,
       },
+    }),
+    defineField({
+      name: "productCode",
+      title: "Product Code / HSN",
+      type: "string",
+      description: "Product code or HSN code for invoicing",
+    }),
+    defineField({
+      name: "price",
+      title: "Price (₹)",
+      type: "number",
+      description: "Default price for invoicing",
+      validation: (Rule) => Rule.min(0),
+    }),
+    defineField({
+      name: "gstPercentage",
+      title: "GST %",
+      type: "number",
+      description: "GST percentage (default: 18)",
+      initialValue: 18,
+      validation: (Rule) => Rule.min(0).max(100),
     }),
     defineField({
       name: "description",

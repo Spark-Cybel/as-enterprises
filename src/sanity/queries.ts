@@ -1,13 +1,33 @@
 // Products
-export const allProductsQuery = `*[_type == "product"] | order(name asc) {
+export const allProductsQuery = `*[_type == "product" && hide != true] | order(name asc) {
   _id,
   name,
   "slug": slug.current,
   "category": category->name,
   "categorySlug": category->slug.current,
   image,
+  productCode,
+  price,
+  gstPercentage,
   description,
-  details
+  details,
+  hide
+}`;
+
+// All products including hidden (for invoice dropdown)
+export const allProductsIncludingHiddenQuery = `*[_type == "product"] | order(name asc) {
+  _id,
+  name,
+  "slug": slug.current,
+  "category": category->name,
+  "categorySlug": category->slug.current,
+  image,
+  productCode,
+  price,
+  gstPercentage,
+  description,
+  details,
+  hide
 }`;
 
 export const productBySlugQuery = `*[_type == "product" && slug.current == $slug][0] {
@@ -17,11 +37,30 @@ export const productBySlugQuery = `*[_type == "product" && slug.current == $slug
   "category": category->name,
   "categorySlug": category->slug.current,
   image,
+  productCode,
+  price,
+  gstPercentage,
   description,
-  details
+  details,
+  hide
 }`;
 
-export const productsByCategoryQuery = `*[_type == "product" && category->slug.current == $categorySlug] | order(name asc) {
+export const productsByCategoryQuery = `*[_type == "product" && category->slug.current == $categorySlug && hide != true] | order(name asc) {
+  _id,
+  name,
+  "slug": slug.current,
+  "category": category->name,
+  "categorySlug": category->slug.current,
+  image,
+  productCode,
+  price,
+  gstPercentage,
+  description,
+  details,
+  hide
+}`;
+
+export const relatedProductsQuery = `*[_type == "product" && category->slug.current == $categorySlug && slug.current != $excludeSlug && hide != true][0...4] {
   _id,
   name,
   "slug": slug.current,
@@ -29,17 +68,7 @@ export const productsByCategoryQuery = `*[_type == "product" && category->slug.c
   "categorySlug": category->slug.current,
   image,
   description,
-  details
-}`;
-
-export const relatedProductsQuery = `*[_type == "product" && category->slug.current == $categorySlug && slug.current != $excludeSlug][0...4] {
-  _id,
-  name,
-  "slug": slug.current,
-  "category": category->name,
-  "categorySlug": category->slug.current,
-  image,
-  description
+  hide
 }`;
 
 // Categories

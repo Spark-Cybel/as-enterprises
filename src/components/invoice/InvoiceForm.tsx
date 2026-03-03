@@ -7,6 +7,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Plus, Trash2, X } from 'lucide-react';
 import { calculateInvoice } from '@/lib/invoiceCalculations';
 import { NumericInput } from './NumericInput';
+import { ProductSearchInput } from './ProductSearchInput';
 
 interface InvoiceFormProps {
   invoice: Invoice;
@@ -24,6 +25,21 @@ export const InvoiceForm = ({ invoice, onChange }: InvoiceFormProps) => {
   const updateItem = (index: number, field: keyof InvoiceItem, value: string | number) => {
     const newItems = [...invoice.items];
     newItems[index] = { ...newItems[index], [field]: value };
+    onChange({ ...invoice, items: newItems });
+  };
+
+  const updateItemFromProduct = (
+    index: number,
+    data: { name: string; hsn: string; rate: number; gstPercentage: number }
+  ) => {
+    const newItems = [...invoice.items];
+    newItems[index] = {
+      ...newItems[index],
+      name: data.name,
+      hsn: data.hsn,
+      rate: data.rate,
+      gstPercentage: data.gstPercentage,
+    };
     onChange({ ...invoice, items: newItems });
   };
 
@@ -92,7 +108,7 @@ export const InvoiceForm = ({ invoice, onChange }: InvoiceFormProps) => {
               id="customerPhone"
               value={invoice.customerPhone}
               onChange={(e) => updateField('customerPhone', e.target.value)}
-              placeholder="9876543210"
+              placeholder="1111111111"
             />
           </div>
           <div className="space-y-2 md:col-span-2">
@@ -130,9 +146,10 @@ export const InvoiceForm = ({ invoice, onChange }: InvoiceFormProps) => {
             <div key={item._key || index} className="grid grid-cols-12 gap-2 items-end p-3 bg-muted/50 rounded-lg">
               <div className="col-span-12 md:col-span-3 space-y-1">
                 <Label className="text-xs">Product/Service Name</Label>
-                <Input
+                <ProductSearchInput
                   value={item.name}
-                  onChange={(e) => updateItem(index, 'name', e.target.value)}
+                  onProductSelect={(data) => updateItemFromProduct(index, data)}
+                  onCustomEntry={(name) => updateItem(index, 'name', name)}
                   placeholder="Product name"
                 />
               </div>

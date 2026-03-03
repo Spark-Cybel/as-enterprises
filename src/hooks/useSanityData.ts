@@ -2,6 +2,7 @@ import { useQuery } from "@tanstack/react-query";
 import { client } from "@/sanity/client";
 import {
   allProductsQuery,
+  allProductsIncludingHiddenQuery,
   productBySlugQuery,
   productsByCategoryQuery,
   relatedProductsQuery,
@@ -36,8 +37,12 @@ export interface SanityProduct {
   category: string;
   categorySlug: string;
   image: SanityImage;
+  productCode?: string;
+  price?: number;
+  gstPercentage?: number;
   description?: string;
   details?: ProductDetail[];
+  hide?: boolean;
 }
 
 export interface SanityCategory {
@@ -101,6 +106,14 @@ export function useProducts() {
   return useQuery<SanityProduct[]>({
     queryKey: ["products"],
     queryFn: () => client.fetch(allProductsQuery),
+  });
+}
+
+// All products including hidden (for invoice dropdown)
+export function useAllProductsIncludingHidden() {
+  return useQuery<SanityProduct[]>({
+    queryKey: ["products", "includingHidden"],
+    queryFn: () => client.fetch(allProductsIncludingHiddenQuery),
   });
 }
 

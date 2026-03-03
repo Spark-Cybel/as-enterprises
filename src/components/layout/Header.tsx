@@ -5,6 +5,7 @@ import { Button } from "@/components/ui/button";
 import { cn } from "@/lib/utils";
 import { useSiteSettings } from "@/hooks/useSanityData";
 import { urlFor } from "@/sanity/client";
+import { ProductSearchBar } from "@/components/common/ProductSearchBar";
 import logo from "@/assets/logo.png";
 
 const navLinks = [
@@ -68,41 +69,7 @@ export const Header = () => {
       <nav className="bg-background border-b shadow-sm">
         <div className="container mx-auto px-4">
           <div className="flex items-center justify-between h-16 md:h-20">
-            {/* Logo */}
-            <Link to="/" className="flex items-center">
-              <img 
-                src={siteLogo} 
-                alt="AS Enterprises" 
-                className="h-10 md:h-14 w-auto"
-              />
-            </Link>
-
-            {/* Desktop Navigation */}
-            <div className="hidden md:flex items-center gap-1">
-              {navLinks.map((link) => (
-                <Link
-                  key={link.path}
-                  to={link.path}
-                  className={cn(
-                    "px-4 py-2 text-sm font-medium transition-colors hover:text-primary",
-                    location.pathname === link.path
-                      ? "text-primary border-b-2 border-primary"
-                      : "text-foreground"
-                  )}
-                >
-                  {link.name}
-                </Link>
-              ))}
-            </div>
-
-            {/* CTA Button */}
-            <div className="hidden md:block">
-              <Button asChild className="bg-primary hover:bg-[hsl(var(--gold-hover))] text-primary-foreground font-semibold">
-                <Link to="/contact-us">Get a Quote</Link>
-              </Button>
-            </div>
-
-            {/* Mobile Menu Button */}
+            {/* Mobile Menu Button - Left on mobile */}
             <button
               className="md:hidden p-2"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
@@ -110,6 +77,48 @@ export const Header = () => {
             >
               {isMenuOpen ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
             </button>
+
+            {/* Logo - Center on mobile, left on desktop */}
+            <Link to="/" className="flex-shrink-0 md:order-first">
+              <img 
+                src={siteLogo} 
+                alt="AS Enterprises" 
+                className="h-10 md:h-14 w-auto"
+              />
+            </Link>
+
+            {/* Mobile CTA Button - Right on mobile */}
+            <Button asChild size="sm" className="md:hidden bg-primary hover:bg-[hsl(var(--gold-hover))] text-primary-foreground font-semibold text-xs px-3">
+              <Link to="/contact-us">Get a Quote</Link>
+            </Button>
+
+            {/* Desktop Navigation - Center Aligned */}
+            <div className="hidden md:flex items-center justify-center flex-1">
+              <div className="flex items-center gap-1">
+                {navLinks.map((link) => (
+                  <Link
+                    key={link.path}
+                    to={link.path}
+                    className={cn(
+                      "px-4 py-2 text-sm font-medium transition-colors hover:text-primary",
+                      location.pathname === link.path
+                        ? "text-primary border-b-2 border-primary"
+                        : "text-foreground"
+                    )}
+                  >
+                    {link.name}
+                  </Link>
+                ))}
+              </div>
+            </div>
+
+            {/* Desktop: Search Button + CTA */}
+            <div className="hidden md:flex items-center gap-2">
+              <ProductSearchBar variant="button" />
+              <Button asChild className="bg-primary hover:bg-[hsl(var(--gold-hover))] text-primary-foreground font-semibold">
+                <Link to="/contact-us">Get a Quote</Link>
+              </Button>
+            </div>
           </div>
         </div>
 
@@ -117,6 +126,11 @@ export const Header = () => {
         {isMenuOpen && (
           <div className="md:hidden bg-background border-t">
             <div className="container mx-auto px-4 py-4 space-y-2">
+              {/* Mobile Search Bar */}
+              <div className="pb-2">
+                <ProductSearchBar onClose={() => setIsMenuOpen(false)} />
+              </div>
+              
               {navLinks.map((link) => (
                 <Link
                   key={link.path}
@@ -132,9 +146,6 @@ export const Header = () => {
                   {link.name}
                 </Link>
               ))}
-              <Button asChild className="w-full mt-4 bg-primary hover:bg-[hsl(var(--gold-hover))]">
-                <Link to="/contact-us" onClick={() => setIsMenuOpen(false)}>Get a Quote</Link>
-              </Button>
             </div>
           </div>
         )}
