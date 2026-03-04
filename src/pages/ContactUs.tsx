@@ -35,9 +35,10 @@ const contactFormSchema = z.object({
 type ContactFormValues = z.infer<typeof contactFormSchema>;
 
 interface ProductContext {
-  id: string;
   name: string;
   category: string;
+  productCode?: string;
+  slug: string;
 }
 
 interface LocationState {
@@ -60,7 +61,7 @@ const ContactUs = () => {
       phone: "",
       email: "",
       message: productContext 
-        ? `I am interested in: ${productContext.name} (${productContext.category})\n\n` 
+        ? `I am interested in: ${productContext.name} (${productContext.category})` 
         : "",
       consent: false,
     },
@@ -84,9 +85,10 @@ const ContactUs = () => {
           enquirer_email: data.email,
           enquirer_phone: data.phone,
           enquiry: data.message,
-          product_id: productContext?.id || "N/A",
           product_name: productContext?.name || "General Inquiry",
           product_category: productContext?.category || "N/A",
+          product_code: productContext?.productCode || "N/A",
+          product_link: productContext ? `https://asenterprisesind.com/product/${productContext.slug}` : "N/A",
           submission_time: submissionTime,
         },
         import.meta.env.VITE_EMAILJS_PUBLIC_KEY

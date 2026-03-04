@@ -120,9 +120,10 @@ const ProductDetail = () => {
                 onClick={() => navigate('/contact-us', { 
                   state: { 
                     product: { 
-                      id: product._id, 
                       name: product.name, 
-                      category: product.category 
+                      category: product.category,
+                      productCode: product.productCode,
+                      slug: product.slug 
                     } 
                   } 
                 })}

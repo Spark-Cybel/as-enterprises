@@ -31,7 +31,7 @@ export const ProductsSection = () => {
           </div>
         ) : (
           <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-            {categories?.map((category) => {
+            {categories?.slice(0, 6).map((category) => {
               const imageUrl = category.image
                 ? urlFor(category.image).width(800).height(600).url()
                 : "https://images.unsplash.com/photo-1563453392212-326f5e854473?w=800&q=80";
@@ -68,10 +68,10 @@ export const ProductsSection = () => {
         
         <div className="text-center mt-10">
           <Link
-            to="/products"
+            to="/product-category"
             className="inline-block bg-primary hover:bg-lime-hover text-primary-foreground font-semibold px-8 py-3 rounded-md transition-colors"
           >
-            View All Products
+            View All Categories
           </Link>
         </div>
       </div>

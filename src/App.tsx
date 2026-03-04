@@ -11,6 +11,7 @@ import AboutUs from "./pages/AboutUs";
 import Products from "./pages/Products";
 import ProductDetail from "./pages/ProductDetail";
 import ProductCategory from "./pages/ProductCategory";
+import Categories from "./pages/Categories";
 import Category from "./pages/Category";
 import Client from "./pages/Client";
 import ContactUs from "./pages/ContactUs";
@@ -43,6 +44,7 @@ const App = () => (
           <Route path="/about-us" element={<AboutUs />} />
           <Route path="/products" element={<Products />} />
           <Route path="/product/:slug" element={<ProductDetail />} />
+          <Route path="/product-category" element={<Categories />} />
           <Route path="/product-category/:category" element={<ProductCategory />} />
           <Route path="/product-category/:category/page/:page" element={<ProductCategory />} />
           <Route path="/category/:category" element={<Category />} />
